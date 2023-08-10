@@ -10,7 +10,7 @@ layout: home
 
 <!-- <img src="/2023/images/deep.jpg"> -->
 <center>
-<h2 class="blackpar_title"> The 1th AI4OR Workshop </h2>
+<h2 class="blackpar_title"> The 1st Workshop on Artificial Intelligence for Operations Research </h2>
 <h3 class="blackpar_title"> AAAI 2023 </h3>
 </center>
 The Fourth Workshop on "New Frontiers in Summarization" aims to promote the cross-fertilization of ideas in automatic summarization and related fields. This includes discussion on novel paradigms, shared tasks of interest, applied research and applications, and possible future research directions. In addition to building a cohesive research community, the workshop will accelerate knowledge diffusion by developing new tools, datasets, and resources that are in line with the summarization needs of academia, industry, and government. 
