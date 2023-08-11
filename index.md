@@ -13,12 +13,12 @@ layout: home
 <h2 class="blackpar_title"> The 1st Workshop on Artificial Intelligence for Operations Research </h2>
 <h3 class="blackpar_title"> AAAI 2023 </h3>
 </center>
-The Fourth Workshop on "New Frontiers in Summarization" aims to promote the cross-fertilization of ideas in automatic summarization and related fields. This includes discussion on novel paradigms, shared tasks of interest, applied research and applications, and possible future research directions. In addition to building a cohesive research community, the workshop will accelerate knowledge diffusion by developing new tools, datasets, and resources that are in line with the summarization needs of academia, industry, and government. 
-		
-New advances in natural language processing (e.g., pre-trained models and prompt-based learning) have resulted in state-of-the-art performance according to existing standards of summarization evaluation. A number of new challenges have emerged, and moving forward with large-scale models we don't fully understand calls for caution. Challenges are posed from multiple directions, including but not limited to the trustworthiness of the generation, the interpretability and controllability of the models, the reliability of evaluation, and the integration of additional sources like knowledge and other modality. Considering these challenges will be crucial for realistic, ecologically valid deployment of summarization research.
 
+Explore transformative possibilities at the intersection of AI and Operations Research. Delve into AI-infused OR methodologies at our workshop.
 
+Operations Research (OR) is an interdisciplinary field that employs advanced analytical methods to aid in decision-making. It leverages techniques from mathematics, statistics, and computer science to model and solve intricate problems, optimizing outcomes across various sectors such as business, government, healthcare, and engineering.
 
+This workshop will serve as a fertile platform for researchers, practitioners, and industry experts to share insights, present novel research findings, and deliberate on future trajectories in the convergence of AI and OR. Our mission is to foster an environment of dynamic knowledge exchange and collaboration, with the ultimate goal of paving the way for innovative and efficacious solutions to complex OR problems using AI. Join us in reshaping the landscape of OR through the lens of AI.
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
@@ -27,22 +27,15 @@ Both long paper (up to 8 pages with unlimited reference) and short paper (up to 
 
 A list of topics relevant to this workshop (but not limited to):
 
-- Abstractive summarization, extractive summarization and their integration
-- Summarization with pre-trained large models
-- Zero-shot/few-shot summarization
-- Fairness in summarization: faithfulness, bias, toxicity, and privacy-preserving 
-- Interpretability and visualization of summarization systems
-- Controlled and tailored text generation
-- Knowledge/common sense injected summarization
-- Multiple text genres (News, tweets, product reviews, conversations, medical records, books, research articles, etc.)
-- Multimodal learning: information integration and aggregation across multiple modalities (text, speech, image, video)
-- Multilingual summarization
-- Semantic aspects of summarization (e.g., semantic representation, inference, validity)
-- Cognitive or psycholinguistic aspects of summarization (e.g., perceived readability, usability, etc.)
-- Development of novel algorithms (e.g., integrating neural and non-neural, distant supervision)
-- Development of new datasets and annotations
-- Development of new evaluation metrics
-
+1. Predict-Then-Optimize Approaches
+2. Large Language Models for OR Model Matching
+3. Large Language Models for OR Model Formulation
+4. Learning to Optimize
+5. Deep Learning-Based Optimization Algorithms
+6. Reinforcement Learning for Adaptive Optimization
+7. AI and OR innovative applications
+8. AI-based algorithm configuration
+9. Integrating AI and OR for fair decisions
 
 
 
@@ -64,9 +57,20 @@ NewSumm 2023 will allow double submission as long as the authors make a decision
 
 
 
-
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
+
+1. Pietro Belotti (Politecnico de Milano)
+2. Pierre Le Bodic (Monash University)
+3. Pierre Bonami (Gurobi)
+4. Bistra Dilkina (University of Southern California)
+5. Julio Gonzalez Diaz (University of Santiago de Compostela)
+6. Yuxi Feng (The University of British Columbia)
+7. Ferdinando Fioretto (U Syracuse)
+8. Emma Frejinger (University of Montreal)
+9. Zijie Geng ( University of Science and Technology of China)
+10. Juan Miguel Morales González (University of Málaga)
+
 <div class="row">
 
  <div class="card column" >
@@ -159,16 +163,16 @@ NewSumm 2023 will allow double submission as long as the authors make a decision
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2023. It's a profound loss that we cannot have him grace our stage. However, we are grateful that Drago's graduated PhD student, Rui Zhang, who is now an assistant professor at PSU, kindly accepted our invitation to give a keynote talk on summarization in memory of Drago. 
 
-<ul>
-<li>Jackie Cheung (McGill University) </li>
-<li>Kathleen McKeown (Columbia University)</li>
-<li>Xuanjing Huang (Fudan University)</li>
-<li>Wojciech Kryscinski (Salesforce)</li>
-<li>Iz Beltagy (AI2) </li>
-<li>Chenguang Zhu (Microsoft)</li>
-<li>Rui Zhang (Penn State University) </li>	
-<li>Dragomir Radev (in memory of, Yale University)</li>
-</ul>
+
+1. Michael Friedlander (University of British Columbia, tentative)
+2. Swathi Gupta (Massachusetts Institute of Technology, tentative)
+3. Xijun Li (University of Science and Technology of China, confirmed)
+4. Ruth Misener (Imperial College, confirmed)
+5. Axel Parmentier (ENPC France, confirmed)
+6. Rindranirina Ramamonjison (Huawei Vancouver Research Center, confirmed)
+7. Bartolomeo Stellato (Princeton, tentative)
+8. Martin Takac (MBZUAI, confirmed)
+
 
 
 
