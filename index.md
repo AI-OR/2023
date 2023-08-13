@@ -10,22 +10,23 @@ layout: home
 
 <!-- <img src="/2023/images/deep.jpg"> -->
 <center>
-<h2 class="blackpar_title"> The 1st Workshop on Artificial Intelligence for Operations Research </h2>
-<h3 class="blackpar_title"> AAAI 2023 </h3>
+<h2 class="blackpar_title"> AAAI 2023 Workshop on Artificial Intelligence for Operations Research </h2>
+<!-- <h3 class="blackpar_title"> AAAI 2023 </h3> -->
 </center>
-
-Explore transformative possibilities at the intersection of AI and Operations Research. Delve into AI-infused OR methodologies at our workshop.
 
 Operations Research (OR) is an interdisciplinary field that employs advanced analytical methods to aid in decision-making. It leverages techniques from mathematics, statistics, and computer science to model and solve intricate problems, optimizing outcomes across various sectors such as business, government, healthcare, and engineering.
 
-This workshop will serve as a fertile platform for researchers, practitioners, and industry experts to share insights, present novel research findings, and deliberate on future trajectories in the convergence of AI and OR. Our mission is to foster an environment of dynamic knowledge exchange and collaboration, with the ultimate goal of paving the way for innovative and efficacious solutions to complex OR problems using AI. Join us in reshaping the landscape of OR through the lens of AI.
+As OR evolves with the growing wave of digitization, it has become imperative to integrate Artificial Intelligence (AI) into the OR process.  Recognizing this crucial intersection, our workshop titled "Artificial Intelligence for Operations Research" intends to delve into the transformative potential of AI to reinvent the traditional OR process.
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
 
-Both long paper (up to 8 pages with unlimited reference) and short paper (up to 4 pages with unlimited reference) are welcomed for submission! 
+The traditional OR process begins with the identification and definition of the problem, including understanding its context, objectives, and regulations. Following this, data is collected from several sources like historical records, market research, or sensor readings, and is preprocessed to ensure its quality and relevance. The third step involves formulating a mathematical model that accurately captures the system's essential elements. Common mathematical models involve mixed integer linear programming, quadratic programming, and stochastic programming. The model is then optimized using various solution methods, such as heuristics, cut generation schemes, decomposition methods, interior point methods, and branch-and-bound to identify the best possible solution. The final step involves interpreting, validating the solution, and evaluating its effectiveness in meeting the requirements.
 
-A list of topics relevant to this workshop (but not limited to):
+This workshop is designed to delve into the diverse avenues through which AI can bolster each part of the OR process. We kindly request that all submissions be rendered in PDF format. The entirety of the content, encompassing all tables and illustrations, should remain within a nine-page limit, with any supplementary pages being allocated solely for references.
+Submissions are welcomed through [OpenReview submission portal](https://openreview.net/). Please follow the guidelines provided in the [AAAI 2023 Author Kit](https://www.aaai.org/Publications/Templates/AuthorKit23.zip).
+
+Topics of interest for this workshop include, but are not limited to:
 
 1. Predict-Then-Optimize Approaches
 2. Large Language Models for OR Model Matching
