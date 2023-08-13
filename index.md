@@ -71,8 +71,6 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
       <a href="https://miralab.ai/people/jie-wang/"><b>Jie Wang</b></a>
 			<br>
 			University of Science and Technology of China
-			<br>
-			jiewangx@ustc.edu.cn
 		</h4>
 		</center>
 	  </div>
@@ -86,8 +84,6 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
       <a href="https://www.cs.ubc.ca/~carenini/"><b>Giuseppe Carenini</b></a>
 			<br>
 			University of British Columbia
-			<br>
-			carenini@cs.ubc.ca
 		</h4>
 		</center>
 	  </div>
@@ -101,8 +97,6 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
       <a href="https://www.lix.polytechnique.fr/~dambrosio/"><b>Claudia D'Ambrosio</b></a>
 			<br>
 			Centre National de la Recherche Scientifique & École Polytechnique
-			<br>
-			dambrosio@lix.polytechnique.fr
 		</h4>
 		</center>
 	  </div>
@@ -120,8 +114,6 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
       <a href="https://www.ivey.uwo.ca/faculty/directory/bissan-ghaddar/"><b>Bissan Ghaddar</b></a>
 			<br>
 			Ivey Business School
-			<br>
-			bghaddar@ivey.ca
 		</h4>
 		</center>
 	  </div>
@@ -135,8 +127,6 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 			<b>Zirui Zhou</b>
 			<br>
 			Huawei Vancouver Research Center
-			<br>
-			zirui.zhou@huawei.com
 		</h4>
 		</center>
 	  </div>
@@ -150,8 +140,6 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 			<b>Zhenan Fan</b>
 			<br>
 			Huawei Vancouver Research Center
-			<br>
-			zhenan.fan1@huawei.com
 		</h4>
 		</center>
 	  </div>
@@ -161,11 +149,8 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 
   
   
-  
 <!-- Confirmed Spearkers -->
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
-We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2023. It's a profound loss that we cannot have him grace our stage. However, we are grateful that Drago's graduated PhD student, Rui Zhang, who is now an assistant professor at PSU, kindly accepted our invitation to give a keynote talk on summarization in memory of Drago. 
-
 
 1. Michael Friedlander (University of British Columbia, tentative)
 2. Swathi Gupta (Massachusetts Institute of Technology, tentative)
@@ -191,49 +176,29 @@ TBA
 
 <!-- PC -->
 <h2 class="blackpar_title" id="Program Committee">Program Committee</h2>
-<ul>
-<li>Manabu Okumura (Tokyo Institute of Technology)</li>
-<li>Ido Dagan (Bar-Ilan University)</li>
-<li>Ming Zhong (UIUC)</li>
-<li>Kristjan Arumae (Qualtrics)</li>
-<li>Pengcheng He (Microsoft Research)</li>
-<li>Naoaki Okazaki (Tokyo Institute of Technology)</li>
-<li>Zhe Hu (Baidu Inc)</li>
-<li>Wojciech Kryscinski (Salesforce Research)</li>
-<li>Haopeng Zhang (University of California Davis)</li>
-<li>Hou Pong Chan (University of Macau)</li>
-<li>Yang Liu (Microsoft)</li>
-<li>Kaiqiang Song (Tencent AI Lab)</li>
-<li>Juan-Manuel Torres-Moreno (LIA Avignon Université)</li>
-<li>Jing Jiang (Singapore Management University)</li>
-<li>Ziqiang Cao (Soochow University)</li>
-<li>Margot Mieskes (University of Applied Sciences, Darmstadt)</li>
-<li>Felice Dell'Orletta (Istituto di Linguistica Computazionale «A. Zampolli», CNR, Pisa, Italy)</li>
-<li>Xinnuo Xu (University of Edinburgh)</li>
-<li>Richard Evans (University of Wolverhampton)</li>
-<li>Esau Villatoro-Tello (Idiap Research Institute)</li>
-<li>Susana Bautista (Universidad Francisco de Vitoria)</li>
-<li>Tobias Falke (Amazon Alexa)</li>
-<li>Kellie Webster (Google)</li>
-<li>Giulia Venturi (Institute for Computational Linguistics "A. Zampolli" (ILC-CNR)</li>
-<li>Jessica Ouyang (University of Texas at Dallas)</li>
-<li>Wencan Luo (Google)</li>
-<li>Rui Zhang (Penn State University)</li>
-<li>Linzi Xing (University of British Columbia)</li>
-<li>Jiacheng Xu (Salesforce AI Research)</li>
-<li>Tadashi Nomoto (National Institute of Japanese Literature)</li>
-<li>Chao Zhao (UNC Chapel Hill)</li>
-<li>Ori Shapira (Amazon)</li>
-<li>Patrick Huber (UBC)</li>
-<li>Florian Boudin (Nantes Université)</li>
-<li>Xinyu Hua (Bloomberg)</li>
-<li>Elena Lloret (University of Alicante, Spain)</li>
-<li>Alexander Fabbri (Salesforce AI Research)</li>
-<li>Tanya Goyal (UT Austin)</li>
-<li>Yuntian Deng (Harvard University)</li>
-<li>Maxime Peyrard (EPFL)</li>
-</ul>
 
-
-
+- Pietro Belotti (Politecnico de Milano)
+- Pierre Le Bodic (Monash University)
+- Pierre Bonami (Gurobi)
+- Bistra Dilkina (University of Southern California)
+- Julio Gonzalez Diaz (University of Santiago de Compostela)
+- Yuxi Feng (The University of British Columbia)
+- Ferdinando Fioretto (U Syracuse)
+- Emma Frejinger (University of Montreal)
+- Zijie Geng (University of Science and Technology of China)
+- Juan Miguel Morales González (University of Málaga)
+- Stefano Gualandi (University of Pavia)
+- Pascal Van Hentenryck (Georgia Institute of Technology)
+- Serdar Kadıoğlu (Fidelity+Brown University)
+- Rohit Kannan (Los Alamos National Laboratory)
+- Elias Khalil (University of Toronto)
+- Yufei Kuang (University of Science and Technology of China)
+- Andrea Lodi (Cornell Tech)
+- Sofia Michel (Neverlabs)
+- Carolina Osorio (HEC Montreal)
+- Thibaut Vidal (Polytechnique Montreal)
+- Xinglu Wang (Simon Fraser University)
+- Zhihai Wang (University of Science and Technology of China)
+- Wen Xiao (Microsoft)
+- Linzi Xing (The University of British Columbia)
 
