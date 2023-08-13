@@ -8,10 +8,9 @@
 layout: home
 ---
 
-<!-- <img src="/2023/images/deep.jpg"> -->
 <center>
-<h2 class="blackpar_title"> AAAI 2023 Workshop on Artificial Intelligence for Operations Research </h2>
-<!-- <h3 class="blackpar_title"> AAAI 2023 </h3> -->
+<h2 class="blackpar_title"> AAAI 2024 Workshop on Artificial Intelligence for Operations Research </h2>
+<!-- <h3 class="blackpar_title"> AAAI 4 </h3> -->
 </center>
 
 Operations Research (OR) is an interdisciplinary field that employs advanced analytical methods to aid in decision-making. It leverages techniques from mathematics, statistics, and computer science to model and solve intricate problems, optimizing outcomes across various sectors such as business, government, healthcare, and engineering.
@@ -23,9 +22,7 @@ As OR evolves with the growing wave of digitization, it has become imperative to
 
 The traditional OR process begins with the identification and definition of the problem, including understanding its context, objectives, and regulations. Following this, data is collected from several sources like historical records, market research, or sensor readings, and is preprocessed to ensure its quality and relevance. The third step involves formulating a mathematical model that accurately captures the system's essential elements. Common mathematical models involve mixed integer linear programming, quadratic programming, and stochastic programming. The model is then optimized using various solution methods, such as heuristics, cut generation schemes, decomposition methods, interior point methods, and branch-and-bound to identify the best possible solution. The final step involves interpreting, validating the solution, and evaluating its effectiveness in meeting the requirements.
 
-This workshop is designed to delve into the diverse avenues through which AI can bolster each part of the OR process. We kindly request that all submissions be rendered in PDF format. The entirety of the content, encompassing all tables and illustrations, should remain within a nine-page limit, with any supplementary pages being allocated solely for references.
-Submissions are welcomed through [OpenReview submission portal](https://openreview.net/). Please follow the guidelines provided in the [AAAI 2023 Author Kit](https://www.aaai.org/Publications/Templates/AuthorKit23.zip).
-
+This workshop is designed to delve into the diverse avenues through which AI can bolster each part of the OR process. 
 Topics of interest for this workshop include, but are not limited to:
 
 1. Predict-Then-Optimize Approaches
@@ -39,124 +36,129 @@ Topics of interest for this workshop include, but are not limited to:
 9. Integrating AI and OR for fair decisions
 
 
-
 <h2 class="blackpar_title" id="Submission">Submission Instructions</h2>
-You are invited to submit your papers in our <a href='https://www.softconf.com/emnlp2023/newsumm2023/'>START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2023.aclweb.org/calls/main_conference/#paper-submission-policies'>ACL 2023 style templates</a>, with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
 
-NewSumm 2023 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSumm 2023 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
+We kindly request that all submissions be rendered in PDF format. The entirety of the content, encompassing all tables and illustrations, should remain within a nine-page limit.
+Supplementary and appendices (either as separate files or appended after the main submission) are allowed.
+Please submit your papers via the [OpenReview submission portal](https://openreview.net/) and follow the guidelines provided in the [AAAI-24 Author Kit](https://aaai.org/wp-content/uploads/2023/06/AuthorKit24.zip).
+We encourage code link submissions for the camera-ready version.
+
+AI4OR 2024 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to AI4OR 2024 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
 
 
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>
 
- - Sep.1, 2023.: Workshop Paper Due Date 
+ - Dec. 1, 2023: Workshop Paper Due Date 
 
- - Oct. 6, 2023: Notification of Acceptance
+ - Jan. 6, 2024: Notification of Acceptance
 
- - Oct. 18, 2023: Camera-ready papers due
+ - Jan. 18, 2024: Camera-ready papers due
 
- - Dec. 6: Workshop Date
+ - Feb. 20, 2024: Workshop Date
 
 
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
 
-1. Pietro Belotti (Politecnico de Milano)
-2. Pierre Le Bodic (Monash University)
-3. Pierre Bonami (Gurobi)
-4. Bistra Dilkina (University of Southern California)
-5. Julio Gonzalez Diaz (University of Santiago de Compostela)
-6. Yuxi Feng (The University of British Columbia)
-7. Ferdinando Fioretto (U Syracuse)
-8. Emma Frejinger (University of Montreal)
-9. Zijie Geng ( University of Science and Technology of China)
-10. Juan Miguel Morales González (University of Málaga)
-
 <div class="row">
 
- <div class="card column" >
-	  <img src="/2023/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
+ <div class="card column">
+	  <img src="/2023/images/jie_wang.jpg" alt="Jie Wang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-      <a href="https://www.cs.mcgill.ca/~ydong26/"><b>Yue Dong</b></a>
+      <a href="https://miralab.ai/people/jie-wang/"><b>Jie Wang</b></a>
 			<br>
-			University of California, Riverside, USA
+			University of Science and Technology of China
+			<br>
+			jiewangx@ustc.edu.cn
 		</h4>
 		</center>
 	  </div>
 	</div>
 
- <div class="card column" >
-	  <img src="/2023/images/wen_xiao.jpg" alt="Wen Xiao" class="img_card">
+ <div class="card column">
+	  <img src="/2023/images/giuseppe_carenini.jpg" alt="Giuseppe Carenini" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-      <a href="https://wendy-xiao.github.io/"><b>Wen Xiao</b></a>
+      <a href="https://www.cs.ubc.ca/~carenini/"><b>Giuseppe Carenini</b></a>
 			<br>
-			University of British Columbia, Canada
+			University of British Columbia
+			<br>
+			carenini@cs.ubc.ca
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+ <div class="card column">
+	  <img src="/2023/images/claudia_dambrosio.jpg" alt="Claudia D'Ambrosio" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+      <a href="https://www.lix.polytechnique.fr/~dambrosio/"><b>Claudia D'Ambrosio</b></a>
+			<br>
+			Centre National de la Recherche Scientifique & École Polytechnique
+			<br>
+			dambrosio@lix.polytechnique.fr
 		</h4>
 		</center>
 	  </div>
 	</div>
  
-    <div class="card column" style="margin-left:0;">
-	  <img src="/2023/images/lu_wang.JPG" alt="Lu Wang" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<a href="https://web.eecs.umich.edu/~wangluxy/"><b>Wang Lu</b></a>
-			<br>
-			University of Michigan, USA
-		</h4>
-		</center>
-	  </div>
-	</div>
-  </div>
-
-<div class="row">
-  <div class="card column" >
-  <img src="/2023/images/fei_liu.JPG" alt="Fei Liu" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<a href="http://www.cs.ucf.edu/~feiliu/"><b>Fei Liu</b></a>
-			<br>
-			Emory University, USA
-		</h4>
-		</center>
-	  </div>
-	</div>
-  
-
-<div class="card column">
-	  <img src="/2023/images/giuseppe_carenini.JPG" alt="Giuseppe Carenini" class="img_card">
-	  <div class="container" >
-		<center>
-		<h4>
-			<a href="https://www.cs.ubc.ca/~carenini/"><b>Giuseppe Carenini</b></a>
-			<br>
-			University of British Columbia, Canada
-		</h4>
-		</center>
-	  </div>
-	</div>
-  
-<!-- <div class="card column">
-	  <img src="/2023/images/jackie_cheung.JPG" alt="Jackie Chi Kit Cheung" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<a href="https://www.cs.mcgill.ca/~jcheung/"><b>Jackie Chi Kit Cheung</b></a>
-			<br>
-			McGill University & MILA, Canada
-		</h4>
-		</center>
-	  </div>
-	</div> -->
 </div>
 
-  
+<div class="row">
+
+<div class="card column">
+	  <img src="/2023/images/bissan_ghaddar.jpg" alt="Bissan Ghaddar" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+      <a href="https://www.ivey.uwo.ca/faculty/directory/bissan-ghaddar/"><b>Bissan Ghaddar</b></a>
+			<br>
+			Ivey Business School
+			<br>
+			bghaddar@ivey.ca
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+<div class="card column">
+	  <img src="/2023/images/zirui_zhou.jpg" alt="Zirui Zhou" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Zirui Zhou</b>
+			<br>
+			Huawei Vancouver Research Center
+			<br>
+			zirui.zhou@huawei.com
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+<div class="card column">
+	  <img src="/2023/images/zhenan_fan.jpg" alt="Zhenan Fan" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Zhenan Fan</b>
+			<br>
+			Huawei Vancouver Research Center
+			<br>
+			zhenan.fan1@huawei.com
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+</div>
+
   
   
   
