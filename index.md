@@ -60,11 +60,9 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
-
 <div class="row">
 
  <div class="card column">
-	  <img src="/2023/images/jie_wang.jpg" alt="Jie Wang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -77,7 +75,6 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 	</div>
 
  <div class="card column">
-	  <img src="/2023/images/giuseppe_carenini.jpg" alt="Giuseppe Carenini" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -90,7 +87,6 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 	</div>
 
  <div class="card column">
-	  <img src="/2023/images/claudia_dambrosio.jpg" alt="Claudia D'Ambrosio" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -107,7 +103,6 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 <div class="row">
 
 <div class="card column">
-	  <img src="/2023/images/bissan_ghaddar.jpg" alt="Bissan Ghaddar" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -120,11 +115,10 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 	</div>
 
 <div class="card column">
-	  <img src="/2023/images/zirui_zhou.jpg" alt="Zirui Zhou" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Zirui Zhou</b>
+			<a href="https://scholar.google.com/citations?user=2fKv_JQAAAAJ"><b>Zirui Zhou</b></a>
 			<br>
 			Huawei Vancouver Research Center
 		</h4>
@@ -133,11 +127,10 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 	</div>
 
 <div class="card column">
-	  <img src="/2023/images/zhenan_fan.jpg" alt="Zhenan Fan" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Zhenan Fan</b>
+			<a href="https://zhenanf.me/"><b>Zhenan Fan</b></a>
 			<br>
 			Huawei Vancouver Research Center
 		</h4>
@@ -146,7 +139,6 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 	</div>
 
 </div>
-
   
   
 <!-- Confirmed Spearkers -->
