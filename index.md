@@ -10,7 +10,7 @@ layout: home
 
 <center>
 <h2 class="blackpar_title"> AAAI 2024 Workshop on Artificial Intelligence for Operations Research </h2>
-<!-- <h3 class="blackpar_title"> AAAI 4 </h3> -->
+<!-- <h3 class="blackpar_title"> AAAI 24 </h3> -->
 </center>
 
 Operations Research (OR) is an interdisciplinary field that employs advanced analytical methods to aid in decision-making. It leverages techniques from mathematics, statistics, and computer science to model and solve intricate problems, optimizing outcomes across various sectors such as business, government, healthcare, and engineering.
@@ -63,7 +63,7 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 <div class="row">
 
  <div class="card column">
-	  <img src="/images/Yue_Dong.jpg" alt="Jie Wang" class="img_card">
+	  <img src="https://ai-or.github.io/2024/images/Yue_Dong.jpg" alt="Jie Wang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
