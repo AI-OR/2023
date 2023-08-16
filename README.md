@@ -1,2 +1,2 @@
-AI4OR workshop 2023
+AI4OR workshop 2024
 
