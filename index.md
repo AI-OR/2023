@@ -63,6 +63,7 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 <div class="row">
 
  <div class="card column">
+	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
