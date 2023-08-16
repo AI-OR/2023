@@ -119,6 +119,8 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 <div class="row">
 
 <div class="card column">
+	  <img src="https://ai-or.github.io/2024/images/ghaddar-bissan-bio-2017-500x680.jpg" alt="Bissan Ghaddar" class="img_card">
+
 	  <div class="container">
 		<center>
 		<h4>
@@ -131,6 +133,7 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 	</div>
 
 <div class="card column">
+
 	  <div class="container">
 		<center>
 		<h4>
@@ -143,6 +146,7 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 	</div>
 
 <div class="card column">
+
 	  <div class="container">
 		<center>
 		<h4>
@@ -155,6 +159,8 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 	</div>
 
 <div class="card column">
+	  <img src="https://ai-or.github.io/2024/images/zhenanf.jpg" alt="Zhenan Fan" class="img_card">
+
 	  <div class="container">
 		<center>
 		<h4>
