@@ -67,4 +67,4 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-baseurl: https://ai-or.github.io/2024
+# baseurl: https://ai-or.github.io/2024
