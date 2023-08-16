@@ -98,6 +98,18 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 		</center>
 	  </div>
 	</div>
+
+<div class="card column">
+	  <div class="container">
+		<center>
+		<h4>
+      <a href="https://www.pokutta.com/"><b>Sebastian Pokutta</b></a>
+			<br>
+			Technische Universität Berlin & Zuse Institute Berlin 
+		</h4>
+		</center>
+	  </div>
+	</div>
  
 </div>
 
@@ -110,6 +122,18 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
       <a href="https://www.ivey.uwo.ca/faculty/directory/bissan-ghaddar/"><b>Bissan Ghaddar</b></a>
 			<br>
 			Ivey Business School
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+<div class="card column">
+	  <div class="container">
+		<center>
+		<h4>
+			<a href="https://sites.google.com/site/yongzhangai/home"><b>Yong Zhang</b></a>
+			<br>
+			Huawei Vancouver Research Center
 		</h4>
 		</center>
 	  </div>
