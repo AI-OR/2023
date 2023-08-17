@@ -60,122 +60,119 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
-<div class="row">
 
- <div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/jie-wang.jpg" alt="Jie Wang" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-      <a href="https://miralab.ai/people/jie-wang/"><b>Jie Wang</b></a>
-			<br>
-			University of Science and Technology of China
-		</h4>
-		</center>
-	  </div>
-	</div>
+<div class="row" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
- <div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/giuseppe_carenini.jpeg" alt="Giuseppe Carenini" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-      <a href="https://www.cs.ubc.ca/~carenini/"><b>Giuseppe Carenini</b></a>
-			<br>
-			University of British Columbia
-		</h4>
-		</center>
-	  </div>
-	</div>
+    <div class="card column" style="flex: 1; margin: 10px;">
+        <img src="https://ai-or.github.io/2024/images/jie-wang.jpg" alt="Jie Wang" class="img_card">
+        <div class="container">
+            <center>
+                <h4>
+                    <a href="https://miralab.ai/people/jie-wang/"><b>Jie Wang</b></a>
+                    <br>
+                    University of Science and Technology of China
+                </h4>
+            </center>
+        </div>
+    </div>
 
- <div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/rsz_claudia2.jpg" alt="Claudia D'Ambrosio" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-      <a href="https://www.lix.polytechnique.fr/~dambrosio/"><b>Claudia D'Ambrosio</b></a>
-			<br>
-			Centre National de la Recherche Scientifique & École Polytechnique
-		</h4>
-		</center>
-	  </div>
-	</div>
+    <div class="card column" style="flex: 1; margin: 10px;">
+        <img src="https://ai-or.github.io/2024/images/giuseppe_carenini.jpeg" alt="Giuseppe Carenini" class="img_card">
+        <div class="container">
+            <center>
+                <h4>
+                    <a href="https://www.cs.ubc.ca/~carenini/"><b>Giuseppe Carenini</b></a>
+                    <br>
+                    University of British Columbia
+                </h4>
+            </center>
+        </div>
+    </div>
 
-<div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/Sebastian-Pokutta.jpg" alt="Sebastian Pokutta" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-      <a href="https://www.pokutta.com/"><b>Sebastian Pokutta</b></a>
-			<br>
-			Technische Universität Berlin & Zuse Institute Berlin 
-		</h4>
-		</center>
-	  </div>
-	</div>
- 
-</div>
+    <div class="card column" style="flex: 1; margin: 10px;">
+        <img src="https://ai-or.github.io/2024/images/rsz_claudia2.jpg" alt="Claudia D'Ambrosio" class="img_card">
+        <div class="container">
+            <center>
+                <h4>
+                    <a href="https://www.lix.polytechnique.fr/~dambrosio/"><b>Claudia D'Ambrosio</b></a>
+                    <br>
+                    Centre National de la Recherche Scientifique & École Polytechnique
+                </h4>
+            </center>
+        </div>
+    </div>
 
-<div class="row">
-
-<div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/ghaddar-bissan-bio-2017-500x680.jpg" alt="Bissan Ghaddar" class="img_card">
-
-	  <div class="container">
-		<center>
-		<h4>
-      <a href="https://www.ivey.uwo.ca/faculty/directory/bissan-ghaddar/"><b>Bissan Ghaddar</b></a>
-			<br>
-			Ivey Business School
-		</h4>
-		</center>
-	  </div>
-	</div>
-
-<div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/yong-zhang.png" alt="Yong Zhang" class="img_card">
-
-	  <div class="container">
-		<center>
-		<h4>
-			<a href="https://sites.google.com/site/yongzhangai/home"><b>Yong Zhang</b></a>
-			<br>
-			Huawei Vancouver Research Center
-		</h4>
-		</center>
-	  </div>
-	</div>
-
-<div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/zirui-zhou.jpg" alt="Zirui Zhou" class="img_card">
-
-	  <div class="container">
-		<center>
-		<h4>
-			<a href="https://scholar.google.com/citations?user=2fKv_JQAAAAJ"><b>Zirui Zhou</b></a>
-			<br>
-			Huawei Vancouver Research Center
-		</h4>
-		</center>
-	  </div>
-	</div>
-
-<div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/zhenanf.jpg" alt="Zhenan Fan" class="img_card">
-
-	  <div class="container">
-		<center>
-		<h4>
-			<a href="https://zhenanf.me/"><b>Zhenan Fan</b></a>
-			<br>
-			Huawei Vancouver Research Center
-		</h4>
-		</center>
-	  </div>
-	</div>
+    <div class="card column" style="flex: 1; margin: 10px;">
+        <img src="https://ai-or.github.io/2024/images/Sebastian-Pokutta.jpg" alt="Sebastian Pokutta" class="img_card">
+        <div class="container">
+            <center>
+                <h4>
+                    <a href="https://www.pokutta.com/"><b>Sebastian Pokutta</b></a>
+                    <br>
+                    Technische Universität Berlin & Zuse Institute Berlin 
+                </h4>
+            </center>
+        </div>
+    </div>
 
 </div>
-  
+
+<div class="row" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+    <div class="card column" style="flex: 1; margin: 10px;">
+        <img src="https://ai-or.github.io/2024/images/ghaddar-bissan-bio-2017-500x680.jpg" alt="Bissan Ghaddar" class="img_card">
+        <div class="container">
+            <center>
+                <h4>
+                    <a href="https://www.ivey.uwo.ca/faculty/directory/bissan-ghaddar/"><b>Bissan Ghaddar</b></a>
+                    <br>
+                    Ivey Business School
+                </h4>
+            </center>
+        </div>
+    </div>
+
+    <div class="card column" style="flex: 1; margin: 10px;">
+        <img src="https://ai-or.github.io/2024/images/yong-zhang.png" alt="Yong Zhang" class="img_card">
+        <div class="container">
+            <center>
+                <h4>
+                    <a href="https://sites.google.com/site/yongzhangai/home"><b>Yong Zhang</b></a>
+                    <br>
+                    Huawei Vancouver Research Center
+                </h4>
+            </center>
+        </div>
+    </div>
+
+    <div class="card column" style="flex: 1; margin: 10px;">
+        <img src="https://ai-or.github.io/2024/images/zirui-zhou.jpg" alt="Zirui Zhou" class="img_card">
+        <div class="container">
+            <center>
+                <h4>
+                    <a href="https://scholar.google.com/citations?user=2fKv_JQAAAAJ"><b>Zirui Zhou</b></a>
+                    <br>
+                    Huawei Vancouver Research Center
+                </h4>
+            </center>
+        </div>
+    </div>
+
+    <div class="card column" style="flex: 1; margin: 10px;">
+        <img src="https://ai-or.github.io/2024/images/zhenanf.jpg" alt="Zhenan Fan" class="img_card">
+        <div class="container">
+            <center>
+                <h4>
+                    <a href="https://zhenanf.me/"><b>Zhenan Fan</b></a>
+                    <br>
+                    Huawei Vancouver Research Center
+                </h4>
+            </center>
+        </div>
+    </div>
+
+</div>
+
   
 <!-- Confirmed Spearkers -->
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
