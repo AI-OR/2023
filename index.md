@@ -13,17 +13,23 @@ layout: home
 <!-- <h3 class="blackpar_title"> AAAI 24 </h3> -->
 </center>
 
-Operations Research (OR) is an interdisciplinary field that employs advanced analytical methods to aid in decision-making. It leverages techniques from mathematics, statistics, and computer science to model and solve intricate problems, optimizing outcomes across various sectors such as business, government, healthcare, and engineering.
+Operations Research (OR) utilizes sophisticated analytical methods to facilitate optimal decision-making. 
+It is an interdisciplinary branch that draws from fields such as mathematics, statistics, and computer science, and specializes in modeling and solving complex problems in various sectors, including business, government, healthcare, and engineering.
 
-As OR evolves with the growing wave of digitization, it has become imperative to integrate Artificial Intelligence (AI) into the OR process.  Recognizing this crucial intersection, our workshop titled "Artificial Intelligence for Operations Research" intends to delve into the transformative potential of AI to reinvent the traditional OR process.
+The traditional OR process can be succinctly segmented into four distinct steps: 
+
+1. Business Consulting - understanding the business landscape.
+2. OR Modelling - creating a mathematical optimization model based on project objectives.
+3. Model Solving - strategizing to solve the mathematical optimization models.
+4. Solution Evaluation - testing and deploying the solution.
+
+In today's digitized world, the integration of Artificial Intelligence (AI) within OR is not just beneficial -– it's essential. Recognizing the power of this synthesis, our workshop seeks to spotlight how AI can revolutionize the OR realm, especially emphasizing AI's roles in OR Modeling and Model Solving phases.
+
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
 
-The traditional OR process begins with the identification and definition of the problem, including understanding its context, objectives, and regulations. Following this, data is collected from several sources like historical records, market research, or sensor readings, and is preprocessed to ensure its quality and relevance. The third step involves formulating a mathematical model that accurately captures the system's essential elements. Common mathematical models involve mixed integer linear programming, quadratic programming, and stochastic programming. The model is then optimized using various solution methods, such as heuristics, cut generation schemes, decomposition methods, interior point methods, and branch-and-bound to identify the best possible solution. The final step involves interpreting, validating the solution, and evaluating its effectiveness in meeting the requirements.
-
-This workshop is designed to delve into the diverse avenues through which AI can bolster each part of the OR process. 
-Topics of interest for this workshop include, but are not limited to:
+Paper submissions are welcomed on topics pertinent to this workshop, including but not limited to:
 
 1. **Language Model-driven OR Modelling:** Exploring how models like GPT-4 can automatically translate business problem descriptions into mathematical formulations.
 2. **AI in Data Refinement:** Techniques like automated scraping, data augmentation, and `predict-then-optimize' methodologies to improve OR model input.
