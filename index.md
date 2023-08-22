@@ -25,15 +25,12 @@ The traditional OR process begins with the identification and definition of the 
 This workshop is designed to delve into the diverse avenues through which AI can bolster each part of the OR process. 
 Topics of interest for this workshop include, but are not limited to:
 
-1. Predict-Then-Optimize Approaches
-2. Large Language Models for OR Model Matching
-3. Large Language Models for OR Model Formulation
-4. Learning to Optimize
-5. Deep Learning-Based Optimization Algorithms
-6. Reinforcement Learning for Adaptive Optimization
-7. AI and OR innovative applications
-8. AI-based algorithm configuration
-9. Integrating AI and OR for fair decisions
+1. **Language Model-driven OR Modelling:** Exploring how models like GPT-4 can automatically translate business problem descriptions into mathematical formulations.
+2. **AI in Data Refinement:** Techniques like automated scraping, data augmentation, and `predict-then-optimize' methodologies to improve OR model input.
+3. **Learning-based Optimization Algorithms:** Harnessing deep learning methods such as Graph Neural Networks (GNNs) and Deep Reinforcement Learning to craft adaptive optimization algorithms.
+4. **End to End Learning and Optimization:** Exploring integrated frameworks that learn from data and optimize simultaneously, reducing intermediate hand-offs and inefficiencies.
+5. **Decision Making under Uncertainty:** Delving into AI techniques that aid in robust decision-making in scenarios fraught with ambiguous or incomplete information.
+6. **AI for Manufacturing and Supply Chains:** Assessing the transformative impact of AI in streamlining, optimizing, and revolutionizing manufacturing processes and the broader supply chain dynamics.
 
 
 <h2 class="blackpar_title" id="Submission">Submission Instructions</h2>
@@ -55,7 +52,6 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
  - Jan. 18, 2024: Camera-ready papers due
 
  - Feb. 20, 2024: Workshop Date
-
 
 
 <!-- Organizers -->
@@ -141,22 +137,20 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 <div class="row">
 
 <div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/yong-zhang.png" alt="Yong Zhang" class="img_card">
-
-	  <div class="container">
-		<center>
-		<h4>
-			<a href="https://sites.google.com/site/yongzhangai/home"><b>Yong Zhang</b></a>
-			<br>
-			Huawei Technologies Canada Co., Ltd
-		</h4>
-		</center>
-	  </div>
+	<img src="https://ai-or.github.io/2024/images/yong-zhang.png" alt="Yong Zhang" class="img_card">
+	<div class="container">
+	<center>
+	<h4>
+		<a href="https://sites.google.com/site/yongzhangai/home"><b>Yong Zhang</b></a>
+		<br>
+		Huawei Technologies Canada Co., Ltd
+	</h4>
+	</center>
+	</div>
 </div>
 
 <div class="card column">
 	  <img src="https://ai-or.github.io/2024/images/zirui-zhou.jpg" alt="Zirui Zhou" class="img_card">
-
 	  <div class="container">
 		<center>
 		<h4>
@@ -170,7 +164,6 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 
 <div class="card column">
 	  <img src="https://ai-or.github.io/2024/images/zhenanf.jpg" alt="Zhenan Fan" class="img_card">
-
 	  <div class="container">
 		<center>
 		<h4>
@@ -188,16 +181,119 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 <!-- Confirmed Spearkers -->
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 
-1. Michael Friedlander (University of British Columbia, tentative)
-2. Swathi Gupta (Massachusetts Institute of Technology, tentative)
-3. Xijun Li (University of Science and Technology of China, confirmed)
-4. Ruth Misener (Imperial College, confirmed)
-5. Axel Parmentier (ENPC France, confirmed)
-6. Rindranirina Ramamonjison (Huawei Technologies Canada Co., Ltd, confirmed)
-7. Bartolomeo Stellato (Princeton, tentative)
-8. Martin Takac (MBZUAI, confirmed)
+<div class="row"> 
+
+<div class="card column">
+    <img src="https://ai-or.github.io/2024/images/Michael-Friedlander.jpg" alt="Michael Friedlander" class="img_card">
+    <div class="container">
+        <center>
+            <h4>
+                <a href="https://friedlander.io/"><b>Michael Friedlander</b></a>
+                <br>
+                University of British Columbia
+            </h4>
+        </center>
+    </div>
+</div>
+
+<div class="card column">
+    <img src="https://ai-or.github.io/2024/images/Swathi-Gupta.jpg" alt="Swathi Gupta" class="img_card">
+    <div class="container">
+        <center>
+            <h4>
+                <a href="https://swatigupta.tech/"><b>Swathi Gupta</b></a>
+                <br>
+                Massachusetts Institute of Technology
+            </h4>
+        </center>
+    </div>
+</div>
+
+<div class="card column">
+    <img src="https://ai-or.github.io/2024/images/Xijun-Li.jpg" alt="Xijun Li" class="img_card">
+    <div class="container">
+        <center>
+            <h4>
+                <a href="https://xijunlee.github.io/"><b>Xijun Li</b></a>
+                <br>
+                University of Science and Technology of China
+            </h4>
+        </center>
+    </div>
+</div>
+
+<div class="card column">
+    <img src="https://ai-or.github.io/2024/images/Ruth-Misener.jpg" alt="Ruth Misener" class="img_card">
+    <div class="container">
+        <center>
+            <h4>
+                <a href="http://wp.doc.ic.ac.uk/rmisener/"><b>Ruth Misener</b></a>
+                <br>
+                Imperial College
+            </h4>
+        </center>
+    </div>
+</div>
+
+</div>
 
 
+<div class="row"> 
+
+<div class="card column">
+    <img src="https://ai-or.github.io/2024/images/Axel-Parmentier.jpg" alt="Axel Parmentier" class="img_card">
+    <div class="container">
+        <center>
+            <h4>
+                <a href="https://axelparmentier.github.io/"><b>Axel Parmentier</b></a>
+                <br>
+                ENPC France
+            </h4>
+        </center>
+    </div>
+</div>
+
+<div class="card column">
+    <img src="https://ai-or.github.io/2024/images/Rindranirina-Ramamonjison.jpg" alt="Rindranirina Ramamonjison" class="img_card">
+    <div class="container">
+        <center>
+            <h4>
+                <a href="https://scholar.google.ca/citations?user=P2hnbwUAAAAJ&hl=en"><b>Rindranirina Ramamonjison</b></a>
+                <br>
+                Huawei Vancouver Research Center
+            </h4>
+        </center>
+    </div>
+</div>
+
+<div class="card column">
+    <img src="https://ai-or.github.io/2024/images/Bartolomeo-Stellato.jpg" alt="Bartolomeo Stellato" class="img_card">
+    <div class="container">
+        <center>
+            <h4>
+                <a href="https://stellato.io/"><b>Bartolomeo Stellato</b></a>
+                <br>
+                Princeton
+            </h4>
+        </center>
+    </div>
+</div>
+
+<div class="card column">
+    <img src="https://ai-or.github.io/2024/images/Martin-Takac.jpg" alt="Martin Takac" class="img_card">
+    <div class="container">
+        <center>
+            <h4>
+                <a href="https://mtakac.com/"><b>Martin Takac</b></a>
+                <br>
+                MBZUAI
+            </h4>
+        </center>
+    </div>
+</div>
+
+
+</div>
 
 
 <!-- Schedule -->
