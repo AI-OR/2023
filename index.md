@@ -284,7 +284,7 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
     <div class="container">
         <center>
             <h4>
-                <a href="https://mtakac.com/"><b>Martin Takac</b></a>
+                <a href="https://mtakac.com/"><b>Martin Takáč</b></a>
                 <br>
                 MBZUAI
             </h4>
