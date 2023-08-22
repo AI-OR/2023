@@ -58,10 +58,16 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 <style>
     .img_card {
         height: 200px;  
-        width: auto;
+        /* width: auto; */
         object-fit: cover;
     }
+	.card.column {
+		width: 25%;      /* This means the card will take up 25% of its parent container's width */
+		box-sizing: border-box;
+		text-align: center; 
+	}
 </style>
+
 
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
 <div class="row">
@@ -291,7 +297,6 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
         </center>
     </div>
 </div>
-
 
 </div>
 
