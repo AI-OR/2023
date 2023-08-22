@@ -18,12 +18,15 @@ It is an interdisciplinary branch that draws from fields such as mathematics, st
 
 The traditional OR process can be succinctly segmented into four distinct steps: 
 
-1. Business Consulting - understanding the business landscape.
-2. OR Modelling - creating a mathematical optimization model based on project objectives.
-3. Model Solving - strategizing to solve the mathematical optimization models.
-4. Solution Evaluation - testing and deploying the solution.
+1. *Business Consulting* - understanding the business landscape.
+2. *OR Modelling* - creating a mathematical optimization model based on project goals.
+3. *Model Solving* - strategizing to solve the mathematical optimization models.
+4. *Solution Evaluation* - deploying and assessing the derived solution.
 
-In today's digitized world, the integration of Artificial Intelligence (AI) within OR is not just beneficial -– it's essential. Recognizing the power of this synthesis, our workshop seeks to spotlight how AI can revolutionize the OR realm, especially emphasizing AI's roles in OR Modeling and Model Solving phases.
+In today's digitized world, the integration of Artificial Intelligence (AI) within OR is not just beneficial -– it's essential. 
+Cutting-edge language models like GPT-4 are poised to metamorphose the mathematical modeling paradigm. 
+Techniques like deep learning algorithms and evolutionary strategies promise adaptive and dynamic departure from traditional optimization approaches, heralding a new era of OR. 
+Recognizing the power of this synthesis, our workshop seeks to spotlight how AI can revolutionize the OR realm, especially its roles in OR Modeling and Model Solving phases.
 
 
 <!-- Call for Papers -->
