@@ -47,7 +47,7 @@ Paper submissions are welcomed on topics pertinent to this workshop, including b
 We kindly request that all submissions be rendered in PDF format. The entirety of the content, encompassing all tables and illustrations, should remain within a nine-page limit.
 Supplementary and appendices (either as separate files or appended after the main submission) are allowed.
 Please submit your papers via the [OpenReview submission portal](https://openreview.net/) and follow the guidelines provided in the [AAAI-24 Author Kit](https://aaai.org/wp-content/uploads/2023/06/AuthorKit24.zip).
-We encourage code link submissions for the camera-ready version.
+<!-- We encourage code link submissions for the camera-ready version. -->
 
 AI4OR 2024 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to AI4OR 2024 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
 
