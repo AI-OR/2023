@@ -198,7 +198,7 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 
 <div class="row"> 
 
-<div class="card column">
+<!-- <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Michael-Friedlander.jpg" alt="Michael Friedlander" class="img_card">
     <div class="container">
         <center>
@@ -209,7 +209,7 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
             </h4>
         </center>
     </div>
-</div>
+</div> -->
 
 <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Swathi-Gupta.jpg" alt="Swathi Gupta" class="img_card">
@@ -250,11 +250,6 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
     </div>
 </div>
 
-</div>
-
-
-<div class="row"> 
-
 <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Axel-Parmentier.jpg" alt="Axel Parmentier" class="img_card">
     <div class="container">
@@ -268,7 +263,12 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
     </div>
 </div>
 
-<div class="card column">
+</div>
+
+
+<div class="row"> 
+
+<!-- <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Rindranirina-Ramamonjison.jpg" alt="Rindranirina Ramamonjison" class="img_card">
     <div class="container">
         <center>
@@ -279,7 +279,7 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
             </h4>
         </center>
     </div>
-</div>
+</div> -->
 
 <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Bartolomeo-Stellato.jpg" alt="Bartolomeo Stellato" class="img_card">
@@ -302,6 +302,34 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
                 <a href="https://mtakac.com/"><b>Martin Takáč</b></a>
                 <br>
                 MBZUAI
+            </h4>
+        </center>
+    </div>
+</div>
+
+<!-- Sebastian Pokutta -->
+<div class="card column">
+    <img src="https://ai-or.github.io/2024/images/Sebastian-Pokutta.jpg" alt="Sebastian Pokutta" class="img_card">
+    <div class="container">
+        <center>
+            <h4>
+                <a href="https://www.pokutta.com/"><b>Sebastian Pokutta</b></a>
+                <br>
+                The Technical University of Berlin
+            </h4>
+        </center>
+    </div>
+</div>
+
+<!-- Phebe Vayanos -->
+<div class="card column">
+    <img src="https://ai-or.github.io/2024/images/Phebe-Vayanos.jpg" alt="Phebe Vayanos" class="img_card">
+    <div class="container">
+        <center>
+            <h4>
+                <a href="https://sites.google.com/usc.edu/phebevayanos/"><b>Phebe Vayanos</b></a>
+                <br>
+                University of Southern California
             </h4>
         </center>
     </div>
