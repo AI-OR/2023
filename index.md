@@ -288,7 +288,7 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
             <h4>
                 <a href="https://stellato.io/"><b>Bartolomeo Stellato</b></a>
                 <br>
-                Princeton
+                Princeton University
             </h4>
         </center>
     </div>
