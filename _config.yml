@@ -6,13 +6,13 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Explore transformative possibilities at the intersection of AI and Operations Research. Delve into AI-infused OR methodologies at our workshop.
 
 # Customized links for main menu
-header_menu:
-  Call for Papers:
-  Submission:
-  Organizers:
-  Confirmed Spearkers:
-  Schedule:
-  Program Committee:
+# header_menu:
+#   T:
+#   Submission:
+#   Organizers:
+#   Confirmed Spearkers:
+#   Schedule:
+#   Program Committee:
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
