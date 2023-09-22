@@ -45,7 +45,7 @@ The workshop is planned as a one-day event. It will feature:
 - Format: Submissions must be in PDF format, prepared using the AAAI-24 author kit.
 - Review Process: All papers will undergo a peer-review process. Selected papers will be presented in the poster session.
 - Awards: A "Best Paper Award" will be given, accompanied by a cash prize of $1000.
-- Publication: All accepted papers will be featured in a special issue of INFOR (https://www.tandfonline.com/toc/tinf20/current)
+- Publication: All accepted papers will be featured in a special issue of [INFOR](https://www.tandfonline.com/toc/tinf20/current).
 - Submission Portal: Papers should be submitted via CMT.
 - Due date: Submissions are due on November 24, 2023.
 
