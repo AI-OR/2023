@@ -7,7 +7,10 @@
 #
 layout: home
 ---
-
+.trigger.center-align {
+  display: flex;
+  justify-content: center;
+}
 <center>
 <h2 class="blackpar_title"> AAAI 2024 Workshop on Artificial Intelligence for Operations Research </h2>
 <!-- <h3 class="blackpar_title"> AAAI 24 </h3> -->
