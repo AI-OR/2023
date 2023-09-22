@@ -13,55 +13,41 @@ layout: home
 <!-- <h3 class="blackpar_title"> AAAI 24 </h3> -->
 </center>
 
-Operations Research (OR) utilizes sophisticated analytical methods to facilitate optimal decision-making. 
-It is an interdisciplinary branch that draws from fields such as mathematics, statistics, and computer science, and specializes in modeling and solving complex problems in various sectors, including business, government, healthcare, and engineering.
-
-The traditional OR process can be succinctly segmented into three distinct steps: 
+Operations Research (OR) utilizes sophisticated analytical methods to facilitate optimal decision-making. It is an interdisciplinary branch that draws from fields such as mathematics, statistics, and computer science and specializes in modelling and solving complex problems in various sectors, including business, government, healthcare, and engineering. The traditional OR process can be segmented into three distinct steps:
 
 <!-- 1. *Business Consulting* - understanding the business landscape. -->
-1. *OR Modelling* - creating a mathematical optimization model based on project goals.
-2. *Model Solving* - strategizing to solve the mathematical optimization models.
+1. *OR Modelling* - creating a mathematical optimization model based on project goals and constraints.
+2. *Model Solving* - designing algorithms to solve mathematical optimization models. 
 3. *Solution Evaluation* - deploying and assessing the derived solution.
 
-In today's digitized world, the integration of Artificial Intelligence (AI) within OR is not just beneficial -– it's essential. 
-Cutting-edge language models like GPT-4 are poised to transform the mathematical modeling paradigm. 
-Techniques like deep learning algorithms and evolutionary strategies promise adaptive and dynamic departure from traditional optimization approaches, heralding a new era of OR. 
-Recognizing the power of this synthesis, our workshop seeks to spotlight how AI can revolutionize the OR fields, especially its roles in OR Modeling and Model Solving phases.
+In today’s digitized world, the integration of Artificial Intelligence (AI) within OR is not just beneficial -– it’s essential. Cutting-edge language models like GPT-4 are poised to transform the mathematical modelling paradigm. Techniques like deep learning algorithms and evolutionary strategies have transformative capabilities that can significantly speed up optimization algorithms. Our workshop aims to showcase how AI can revolutionize the field of operations research, particularly in the modelling and solving phases. 
 
+<h2 class="blackpar_title" id="Call for Papers">Topics</h2>
 
-<!-- Call for Papers -->
-<h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
+Specific topics of interest for the workshop include (but are not limited to) 
+- Language Model-driven OR Modelling
+- AI in Data Generation and Refinement
+- Learning-based Optimization Algorithms
+- End-to-End Learning and Optimization
+- AI for Decision-Making under Uncertainty
+- AI for Manufacturing and Supply Chains
 
-Paper submissions are welcomed on topics pertinent to this workshop, including but not limited to:
+<h2 class="blackpar_title" id="Submission">Formats</h2>
 
-1. **Language Model-driven OR Modelling:** Exploring how models like GPT-4 can automatically translate business problem descriptions into mathematical formulations.
-2. **AI in Data Refinement:** Techniques like automated scraping, data augmentation, and `predict-then-optimize' methodologies to improve OR model input.
-3. **Learning-based Optimization Algorithms:** Harnessing deep learning methods such as Graph Neural Networks (GNNs) and Deep Reinforcement Learning to craft adaptive optimization algorithms.
-4. **End to End Learning and Optimization:** Exploring integrated frameworks that learn from data and optimize simultaneously, reducing intermediate hand-offs and inefficiencies.
-5. **Decision Making under Uncertainty:** Delving into AI techniques that aid in robust decision-making in scenarios fraught with ambiguous or incomplete information.
-6. **AI for Manufacturing and Supply Chains:** Assessing the transformative impact of AI in streamlining, optimizing, and revolutionizing manufacturing processes and the broader supply chain dynamics.
+The workshop is planned as a one-day event. It will feature:
+- Invited Talks: Leading researchers will share their insights and findings.
+- Panel Discussion: Experts from academia and industry will discuss and debate relevant topics.
+- Poster Session: All accepted papers will have the opportunity for a poster presentation, allowing attendees to engage in detailed discussions about the research.
 
+<h2 class="blackpar_title" id="Dates">Submissions</h2>
 
-<h2 class="blackpar_title" id="Submission">Submission Instructions</h2>
-
-We kindly request that all submissions be rendered in PDF format. The entirety of the content, encompassing all tables and illustrations, should remain within a nine-page limit.
-Supplementary and appendices (either as separate files or appended after the main submission) are allowed.
-Please submit your papers via the [OpenReview submission portal](https://openreview.net/) and follow the guidelines provided in the [AAAI-24 Author Kit](https://aaai.org/wp-content/uploads/2023/06/AuthorKit24.zip).
-<!-- We encourage code link submissions for the camera-ready version. -->
-
-AI4OR 2024 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to AI4OR 2024 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
-
-
-<h2 class="blackpar_title" id="Dates">Important Dates:</h2>
-
- - Dec. 1, 2023: Workshop Paper Due Date 
-
- - Jan. 6, 2024: Notification of Acceptance
-
- - Jan. 18, 2024: Camera-ready papers due
-
- - Feb. 20, 2024: Workshop Date
-
+- Length: Technical papers can be up to 7 pages, not including references and appendices.
+- Format: Submissions must be in PDF format, prepared using the AAAI-24 author kit.
+- Review Process: All papers will undergo a peer-review process. Selected papers will be presented in the poster session.
+- Awards: A "Best Paper Award" will be given, accompanied by a cash prize of $1000.
+- Publication: All accepted papers will be featured in a special issue of INFOR (https://www.tandfonline.com/toc/tinf20/current)
+- Submission Portal: Papers should be submitted via CMT.
+- Due date: Submissions are due on November 24, 2023.
 
 <!-- Organizers -->
 <style>
@@ -78,7 +64,7 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 </style>
 
 
-<h2 class="blackpar_title" id="Organizers">Organizers</h2>
+<h2 class="blackpar_title" id="Organizers">Organizers Committee</h2>
 <div class="row">
 
  <div class="card column">
@@ -338,18 +324,8 @@ AI4OR 2024 will allow double submission as long as the authors make a decision b
 </div>
 
 
-<!-- Schedule -->
-<h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
-TBA
-<!-- 
-<a href="https://summarization-workshop.github.io/schedule/"><b>NewSumm 2023 schedule (9am - 6pm AST)</b></a>
--->
-
-
-
-
 <!-- PC -->
-<h2 class="blackpar_title" id="Program Committee">Program Committee</h2>
+<!-- <h2 class="blackpar_title" id="Program Committee">Program Committee</h2>
 
 - Pietro Belotti (Politecnico de Milano)
 - Pierre Le Bodic (Monash University)
@@ -374,5 +350,5 @@ TBA
 - Xinglu Wang (Simon Fraser University)
 - Zhihai Wang (University of Science and Technology of China)
 - Wen Xiao (Microsoft)
-- Linzi Xing (The University of British Columbia)
+- Linzi Xing (The University of British Columbia) -->
 
