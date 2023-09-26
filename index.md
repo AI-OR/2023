@@ -46,7 +46,7 @@ The workshop is planned as a one-day event. It will feature:
 - Review Process: All papers will undergo a peer-review process. Selected papers will be presented in the poster session.
 - Awards: A "Best Paper Award" will be given, accompanied by a cash prize of $1000.
 - Publication: All accepted papers will be featured in a special issue of [INFOR](https://www.tandfonline.com/toc/tinf20/current).
-- Submission Portal: Papers should be submitted via CMT.
+- Submission Portal: Papers should be submitted via [INFOR portal, to be updated].
 - Due date: Submissions are due on November 24, 2023.
 
 <!-- Organizers -->
@@ -197,7 +197,7 @@ The workshop is planned as a one-day event. It will feature:
     </div>
 </div> -->
 
-<div class="card column">
+<!-- <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Swathi-Gupta.jpg" alt="Swathi Gupta" class="img_card">
     <div class="container">
         <center>
@@ -234,7 +234,7 @@ The workshop is planned as a one-day event. It will feature:
             </h4>
         </center>
     </div>
-</div>
+</div> -->
 
 <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Axel-Parmentier.jpg" alt="Axel Parmentier" class="img_card">
@@ -249,10 +249,8 @@ The workshop is planned as a one-day event. It will feature:
     </div>
 </div>
 
-</div>
-
-
-<div class="row"> 
+<!-- </div>
+<div class="row">  -->
 
 <!-- <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Rindranirina-Ramamonjison.jpg" alt="Rindranirina Ramamonjison" class="img_card">
@@ -267,7 +265,7 @@ The workshop is planned as a one-day event. It will feature:
     </div>
 </div> -->
 
-<div class="card column">
+<!-- <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Bartolomeo-Stellato.jpg" alt="Bartolomeo Stellato" class="img_card">
     <div class="container">
         <center>
@@ -278,7 +276,7 @@ The workshop is planned as a one-day event. It will feature:
             </h4>
         </center>
     </div>
-</div>
+</div> -->
 
 <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Martin-Takac.jpg" alt="Martin Takac" class="img_card">
@@ -294,7 +292,7 @@ The workshop is planned as a one-day event. It will feature:
 </div>
 
 <!-- Sebastian Pokutta -->
-<div class="card column">
+<!-- <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Sebastian-Pokutta.jpg" alt="Sebastian Pokutta" class="img_card">
     <div class="container">
         <center>
@@ -305,7 +303,7 @@ The workshop is planned as a one-day event. It will feature:
             </h4>
         </center>
     </div>
-</div>
+</div> -->
 
 <!-- Phebe Vayanos -->
 <div class="card column">
@@ -321,11 +319,24 @@ The workshop is planned as a one-day event. It will feature:
     </div>
 </div>
 
+<div class="card column">
+	<img src="https://ai-or.github.io/2024/images/yong-zhang.png" alt="Yong Zhang" class="img_card">
+	<div class="container">
+	<center>
+	<h4>
+		<a href="https://sites.google.com/site/yongzhangai/home"><b>Yong Zhang</b></a>
+		<br>
+		Huawei Technologies Canada Co., Ltd
+	</h4>
+	</center>
+	</div>
+</div>
+
 </div>
 
 
 <!-- PC -->
-<!-- <h2 class="blackpar_title" id="Program Committee">Program Committee</h2>
+<h2 class="blackpar_title" id="Program Committee">Program Committee</h2>
 
 - Pietro Belotti (Politecnico de Milano)
 - Pierre Le Bodic (Monash University)
@@ -350,5 +361,5 @@ The workshop is planned as a one-day event. It will feature:
 - Xinglu Wang (Simon Fraser University)
 - Zhihai Wang (University of Science and Technology of China)
 - Wen Xiao (Microsoft)
-- Linzi Xing (The University of British Columbia) -->
+- Linzi Xing (The University of British Columbia)
 
