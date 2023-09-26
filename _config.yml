@@ -8,8 +8,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
 # Customized links for main menu
 header_menu:
   Topics :
-  Formats &nbsp; :  
-  Submission &nbsp; :  
+  Formats :  
+  Submission :  
   Organizers Committee :  
   Confirmed Spearkers :  
   Program Committee : 
