@@ -44,7 +44,7 @@ The workshop is planned as a one-day event. It will feature:
 - Length: Technical papers can be up to 7 pages, not including references and appendices.
 - Format: Submissions must be in PDF format, prepared using the AAAI-24 author kit.
 - Review Process: All papers will undergo a peer-review process. Selected papers will be presented in the poster session.
-- Awards: A "Best Paper Award" will be given, accompanied by a cash prize of $1000.
+- Awards: A ``Best Paper Award" will be given, accompanied by a cash prize of $1000.
 - Publication: All accepted papers will be featured in a special issue of [INFOR](https://www.tandfonline.com/toc/tinf20/current).
 - Submission Portal: Papers should be submitted via [INFOR portal](https://accounts.taylorfrancis.com/identity/#/login?authorize=true&client_id=59f21242bb410562f60413514f5108d80ede3086581e834d9027687f7a875502&response_type=code&scope=mail&redirect_uri=http:%2F%2Fapi.taylorandfrancis.com%2Fv1%2Fauthclient%2Fcallback%2F162.158.94.51&state=&flow=&brand=rptnf). Please contact Professor Bissan Ghaddar (by [email](mailto:bghaddar@ivey.uwo.ca)) if there is question on submission portal. 
 - Due date: Submissions are due on November 24, 2023.

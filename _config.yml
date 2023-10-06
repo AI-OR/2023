@@ -7,10 +7,10 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 # Customized links for main menu
 header_menu:
-  Topics: Topcis &nbsp; &nbsp;&nbsp;&nbsp;
-  Formats:  
+  Topics: 
+  Formats: 
   Submission:  
-  Confirmed Spearkers:  
+  Confirmed Spearkers: 
   Organizers Committee: 
 
 show_excerpts: false # set to true to show excerpts on the homepage
