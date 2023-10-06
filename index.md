@@ -46,7 +46,7 @@ The workshop is planned as a one-day event. It will feature:
 - Review Process: All papers will undergo a peer-review process. Selected papers will be presented in the poster session.
 - Awards: A "Best Paper Award" will be given, accompanied by a cash prize of $1000.
 - Publication: All accepted papers will be featured in a special issue of [INFOR](https://www.tandfonline.com/toc/tinf20/current).
-- Submission Portal: Papers should be submitted via [INFOR portal, to be updated].
+- Submission Portal: Papers should be submitted via [INFOR portal](https://accounts.taylorfrancis.com/identity/#/login?authorize=true&client_id=59f21242bb410562f60413514f5108d80ede3086581e834d9027687f7a875502&response_type=code&scope=mail&redirect_uri=http:%2F%2Fapi.taylorandfrancis.com%2Fv1%2Fauthclient%2Fcallback%2F162.158.94.51&state=&flow=&brand=rptnf). 
 - Due date: Submissions are due on November 24, 2023.
 
 <!-- Organizers -->
@@ -64,121 +64,7 @@ The workshop is planned as a one-day event. It will feature:
 </style>
 
 
-<h2 class="blackpar_title" id="Organizers">Organizers Committee</h2>
-<div class="row">
 
- <div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/jie-wang.jpg" alt="Jie Wang" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-      <a href="https://miralab.ai/people/jie-wang/"><b>Jie Wang</b></a>
-			<br>
-			University of Science and Technology of China
-		</h4>
-		</center>
-	  </div>
-	</div>
-
- <div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/giuseppe_carenini.jpeg" alt="Giuseppe Carenini" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-      <a href="https://www.cs.ubc.ca/~carenini/"><b>Giuseppe Carenini</b></a>
-			<br>
-			University of British Columbia
-		</h4>
-		</center>
-	  </div>
-	</div>
-
- <div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/rsz_claudia2.jpg" alt="Claudia D'Ambrosio" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-      <a href="https://www.lix.polytechnique.fr/~dambrosio/"><b>Claudia D'Ambrosio</b></a>
-			<br>
-			Centre National de la Recherche Scientifique & École Polytechnique
-		</h4>
-		</center>
-	  </div>
-	</div>
-
-<!-- <div class="card column">
-	<img src="https://ai-or.github.io/2024/images/Sebastian-Pokutta.jpg" alt="Sebastian Pokutta" class="img_card">
-	<div class="container">
-	<center>
-	<h4>
-	<a href="https://www.pokutta.com/"><b>Sebastian Pokutta</b></a>
-		<br>
-		Technische Universität Berlin & Zuse Institute Berlin 
-	</h4>
-	</center>
-	</div>
-</div> -->
-
-<div class="card column">
-	<img src="https://ai-or.github.io/2024/images/ghaddar-bissan-bio-2017-500x680.jpg" alt="Bissan Ghaddar" class="img_card">
-
-	<div class="container">
-	<center>
-	<h4>
-	<a href="https://www.ivey.uwo.ca/faculty/directory/bissan-ghaddar/"><b>Bissan Ghaddar</b></a>
-		<br>
-		Ivey Business School
-	</h4>
-	</center>
-	</div>
-</div>
-
-</div>
-
-<div class="row">
-
-<div class="card column">
-	<img src="https://ai-or.github.io/2024/images/yong-zhang.png" alt="Yong Zhang" class="img_card">
-	<div class="container">
-	<center>
-	<h4>
-		<a href="https://sites.google.com/site/yongzhangai/home"><b>Yong Zhang</b></a>
-		<br>
-		Huawei Technologies Canada Co., Ltd
-	</h4>
-	</center>
-	</div>
-</div>
-
-<div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/zirui-zhou.jpg" alt="Zirui Zhou" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<a href="https://scholar.google.com/citations?user=2fKv_JQAAAAJ"><b>Zirui Zhou</b></a>
-			<br>
-			Huawei Technologies Canada Co., Ltd
-		</h4>
-		</center>
-	  </div>
-</div>
-
-<div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/zhenanf.jpg" alt="Zhenan Fan" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<a href="https://zhenanf.me/"><b>Zhenan Fan</b></a>
-			<br>
-			Huawei Technologies Canada Co., Ltd
-		</h4>
-		</center>
-	  </div>
-</div>
-
-</div>
-  
-  
 <!-- Confirmed Spearkers -->
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 
@@ -335,8 +221,125 @@ The workshop is planned as a one-day event. It will feature:
 </div>
 
 
+<h2 class="blackpar_title" id="Organizers">Organizers Committee</h2>
+<div class="row">
+
+ <div class="card column">
+	  <img src="https://ai-or.github.io/2024/images/jie-wang.jpg" alt="Jie Wang" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+      <a href="https://miralab.ai/people/jie-wang/"><b>Jie Wang</b></a>
+			<br>
+			University of Science and Technology of China
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+ <div class="card column">
+	  <img src="https://ai-or.github.io/2024/images/giuseppe_carenini.jpeg" alt="Giuseppe Carenini" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+      <a href="https://www.cs.ubc.ca/~carenini/"><b>Giuseppe Carenini</b></a>
+			<br>
+			University of British Columbia
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+ <div class="card column">
+	  <img src="https://ai-or.github.io/2024/images/rsz_claudia2.jpg" alt="Claudia D'Ambrosio" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+      <a href="https://www.lix.polytechnique.fr/~dambrosio/"><b>Claudia D'Ambrosio</b></a>
+			<br>
+			Centre National de la Recherche Scientifique & École Polytechnique
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+<!-- <div class="card column">
+	<img src="https://ai-or.github.io/2024/images/Sebastian-Pokutta.jpg" alt="Sebastian Pokutta" class="img_card">
+	<div class="container">
+	<center>
+	<h4>
+	<a href="https://www.pokutta.com/"><b>Sebastian Pokutta</b></a>
+		<br>
+		Technische Universität Berlin & Zuse Institute Berlin 
+	</h4>
+	</center>
+	</div>
+</div> -->
+
+<div class="card column">
+	<img src="https://ai-or.github.io/2024/images/ghaddar-bissan-bio-2017-500x680.jpg" alt="Bissan Ghaddar" class="img_card">
+
+	<div class="container">
+	<center>
+	<h4>
+	<a href="https://www.ivey.uwo.ca/faculty/directory/bissan-ghaddar/"><b>Bissan Ghaddar</b></a>
+		<br>
+		Ivey Business School
+	</h4>
+	</center>
+	</div>
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="card column">
+	<img src="https://ai-or.github.io/2024/images/yong-zhang.png" alt="Yong Zhang" class="img_card">
+	<div class="container">
+	<center>
+	<h4>
+		<a href="https://sites.google.com/site/yongzhangai/home"><b>Yong Zhang</b></a>
+		<br>
+		Huawei Technologies Canada Co., Ltd
+	</h4>
+	</center>
+	</div>
+</div>
+
+<div class="card column">
+	  <img src="https://ai-or.github.io/2024/images/zirui-zhou.jpg" alt="Zirui Zhou" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<a href="https://scholar.google.com/citations?user=2fKv_JQAAAAJ"><b>Zirui Zhou</b></a>
+			<br>
+			Huawei Technologies Canada Co., Ltd
+		</h4>
+		</center>
+	  </div>
+</div>
+
+<div class="card column">
+	  <img src="https://ai-or.github.io/2024/images/zhenanf.jpg" alt="Zhenan Fan" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<a href="https://zhenanf.me/"><b>Zhenan Fan</b></a>
+			<br>
+			Huawei Technologies Canada Co., Ltd
+		</h4>
+		</center>
+	  </div>
+</div>
+
+</div>
+  
+  
+
+
 <!-- PC -->
-<h2 class="blackpar_title" id="Program Committee">Program Committee</h2>
+<!-- <h2 class="blackpar_title" id="Program Committee">Program Committee</h2>
 
 - Pietro Belotti (Politecnico de Milano)
 - Pierre Le Bodic (Monash University)
@@ -361,5 +364,5 @@ The workshop is planned as a one-day event. It will feature:
 - Xinglu Wang (Simon Fraser University)
 - Zhihai Wang (University of Science and Technology of China)
 - Wen Xiao (Microsoft)
-- Linzi Xing (The University of British Columbia)
+- Linzi Xing (The University of British Columbia) -->
 
