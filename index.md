@@ -42,7 +42,7 @@ The workshop is planned as a one-day event. It will feature:
 <h2 class="blackpar_title" id="Dates">Submissions</h2>
 
 - Length: Technical papers can be up to 7 pages, not including references and appendices.
-- Format: Submissions must be in PDF format, prepared using the AAAI-24 author kit.
+- Format: Submissions must be in PDF format, prepared using the [AAAI-24 author kit](https://aaai.org/aaai-conference/).
 - Review Process: All papers will undergo a peer-review process. Selected papers will be presented in the poster session.
 - Awards: A ``Best Paper Award" will be given, accompanied by a cash prize of $1000.
 - Publication: All accepted papers will be featured in a special issue of [INFOR](https://www.tandfonline.com/toc/tinf20/current).
