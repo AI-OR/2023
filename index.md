@@ -220,6 +220,20 @@ The workshop is planned as a one-day event. It will feature:
 
 </div>
 
+<div class="row">
+<div class="card column">
+	<img src="https://ai-or.github.io/2024/images/vitercik_square.jpg" alt="Ellen Vitercik" class="img_card">
+	<div class="container">
+	<center>
+	<h4>
+		<a href="https://vitercik.github.io/"><b>Ellen Vitercik</b></a>
+		<br>
+		Stanford University
+	</h4>
+	</center>
+	</div>
+</div>
+</div>
 
 <h2 class="blackpar_title" id="Organizers">Organizers Committee</h2>
 <div class="row">
