@@ -235,7 +235,7 @@ The workshop is planned as a one-day event. It will feature:
 </div>
 </div>
 
-<h2 class="blackpar_title" id="Organizers">Organizers Committee</h2>
+<h2 class="blackpar_title" id="Organizers Committee">Organizers Committee</h2>
 <div class="row">
 
  <div class="card column">
