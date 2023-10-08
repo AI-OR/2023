@@ -49,10 +49,10 @@ The workshop is planned as a one-day event. It will feature:
 - Submission Portal: Papers should be submitted via [INFOR portal](https://www.tandfonline.com/toc/tinf20/current). 
   - Submission Instructions: The INFOR portal has a verification process to ensure submissions are from humans. To submit your paper:
     1. Visit the INFOR portal.
-    2. Click on "Submit an article" on the left-hand side.
-    3. From the dropdown menu, select "Go to submission site".
+    2. Click on ``Submit an article" on the left-hand side.
+    3. From the dropdown menu, select ``Go to submission site".
     4. Follow the provided instructions to complete your submission.
-  - Contact: If you have any questions regarding the submission portal, please reach out to Professor Bissan Ghaddar via email.
+  - If you have any questions regarding the submission portal, please reach out to Professor Bissan Ghaddar via [email](mailto:bghaddar@ivey.uwo.ca).
 - Due date: Submissions are due on November 24, 2023.
 
 <!-- Organizers -->
