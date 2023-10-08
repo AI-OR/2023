@@ -42,9 +42,8 @@ The workshop is planned as a one-day event. It will feature:
 <h2 class="blackpar_title" id="Dates">Submissions</h2>
 
 - Length: Technical papers can be up to 7 pages, not including references and appendices.
-- Format: Submissions must be in PDF format, prepared using the [AAAI-24 author kit](https://aaai.org/aaai-conference/).
+- Format: Submissions must be in PDF format, prepared using the [INFOR author kit](https://aaai.org/aaai-conference/).
 - Review Process: All papers will undergo a peer-review process. Selected papers will be presented in the poster session.
-- Awards: A ``Best Paper Award" will be given, accompanied by a cash prize of $1000.
 - Publication: All accepted papers will be featured in a special issue of INFOR: Information Systems and Operational Research.
 - Submission Portal: Papers should be submitted via [INFOR portal](https://www.tandfonline.com/toc/tinf20/current). 
   - Submission Instructions: The INFOR portal has a verification process to ensure submissions are from humans. To submit your paper:
@@ -53,6 +52,7 @@ The workshop is planned as a one-day event. It will feature:
     3. From the dropdown menu, select ``Go to submission site".
     4. Follow the provided instructions to complete your submission.
   - If you have any questions regarding the submission portal, please reach out to Professor Bissan Ghaddar via [email](mailto:bghaddar@ivey.uwo.ca).
+- Format: Please ensure that all submissions are in PDF format, follow the [INFOR guidelines](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tinf20) when preparing your paper and make use of the [INFOR template](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tinf20#Formatting_and_templates).
 - Due date: Submissions are due on November 24, 2023.
 
 <!-- Organizers -->
