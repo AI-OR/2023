@@ -43,11 +43,12 @@ The workshop is planned as a one-day event. It will feature:
 
 - Review Process: All papers will undergo a peer-review process. Selected papers will be presented in the poster session.
 - Publication: All accepted papers will be featured in a [special issue of INFOR](https://www.callforpapers.co.uk/ai4or) (Information Systems and Operational Research) -- Artificial Intelligence for  Operations Research.
-- Length: Technical papers can be up to 7 pages double column or 14 pages single column, not including references and appendices.
-- Format: Please ensure that all submissions are in PDF format, follow the [INFOR guidelines](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tinf20) when preparing your paper and make use of the [INFOR template](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tinf20#Formatting_and_templates).
+- Format: Please ensure that all submissions are in PDF format, following AAAI template or INFOR template. 
+  - For AAAI template, please follow the instructions in [AAAI 2024 Author Kit](https://aaai.org/authorkit24-2/). The paper can be up to 7 pages double column, not including references and appendices.
+  - For INFOR template, please follow the [INFOR guidelines](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tinf20) and make use of the [INFOR template](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tinf20#Formatting_and_templates).  The paper can be up to 14 pages single column, not including references and appendices.
 - Submission Portal: Papers should be submitted via [INFOR portal](https://www.tandfonline.com/toc/tinf20/current). 
   - Submission Instructions: The INFOR portal has a verification process to ensure submissions are from humans. To submit your paper:
-    1. Visit the INFOR portal.
+    1. Visit the [INFOR portal](https://www.tandfonline.com/toc/tinf20/current).
     2. Click on ``Submit an article" on the left-hand side.
     3. From the dropdown menu, select ``Go to submission site".
     4. Follow the provided instructions to complete your submission.
