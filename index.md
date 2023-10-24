@@ -42,7 +42,7 @@ The workshop is planned as a one-day event. It will feature:
 <h2 class="blackpar_title" id="Dates">Submissions</h2>
 
 - Review Process: All papers will undergo a peer-review process. Selected papers will be presented in the poster session.
-- Publication: All accepted papers will be featured in a [special issue of INFOR](https://www.callforpapers.co.uk/ai4or) (Information Systems and Operational Research) -- Artificial Intelligence fOR Operations Research.
+- Publication: All accepted papers will be featured in a [special issue of INFOR](https://www.callforpapers.co.uk/ai4or) (Information Systems and Operational Research) -- Artificial Intelligence for  Operations Research.
 - Length: Technical papers can be up to 7 pages double column or 14 pages single column, not including references and appendices.
 - Format: Please ensure that all submissions are in PDF format, follow the [INFOR guidelines](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tinf20) when preparing your paper and make use of the [INFOR template](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tinf20#Formatting_and_templates).
 - Submission Portal: Papers should be submitted via [INFOR portal](https://www.tandfonline.com/toc/tinf20/current). 
