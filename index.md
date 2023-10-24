@@ -41,8 +41,8 @@ The workshop is planned as a one-day event. It will feature:
 
 <h2 class="blackpar_title" id="Dates">Submissions</h2>
 
-- Length: Technical papers can be up to 7 pages, not including references and appendices.
-- Format: Submissions must be in PDF format, prepared using the [INFOR author kit](https://aaai.org/aaai-conference/).
+- Length: Technical papers can be up to 7 pages double column or 14 pages single column, not including references and appendices.
+- Format: Submissions must be in PDF format, prepared using the [INFOR template](https://aaai.org/aaai-conference/). 
 - Review Process: All papers will undergo a peer-review process. Selected papers will be presented in the poster session.
 - Publication: All accepted papers will be featured in a [special issue of INFOR](https://www.callforpapers.co.uk/ai4or) (Information Systems and Operational Research) -- Artificial Intelligence fOR Operations Research.
 - Submission Portal: Papers should be submitted via [INFOR portal](https://www.tandfonline.com/toc/tinf20/current). 
