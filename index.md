@@ -103,7 +103,7 @@ The workshop is planned as a one-day event. It will feature:
 </div>
 
 <div class="card column">
-	<img src="https://web.stanford.edu/~udell/images/udell_crop.jpg" alt="Madeleine Udell" class="img_card">
+	<img src="https://ai-or.github.io/2024/images/udell_crop.jpg" alt="Madeleine Udell" class="img_card">
 	<div class="container">
 	<center>
 	<h4>
