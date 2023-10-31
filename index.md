@@ -76,6 +76,92 @@ The workshop is planned as a one-day event. It will feature:
 
 <div class="row"> 
 
+<div class="card column">
+    <img src="https://ai-or.github.io/2024/images/Axel-Parmentier.jpg" alt="Axel Parmentier" class="img_card">
+    <div class="container">
+        <center>
+            <h4>
+                <a href="https://axelparmentier.github.io/"><b>Axel Parmentier</b></a>
+                <br>
+                ENPC France
+            </h4>
+        </center>
+    </div>
+</div>
+
+<div class="card column">
+    <img src="https://ai-or.github.io/2024/images/Martin-Takac.jpg" alt="Martin Takac" class="img_card">
+    <div class="container">
+        <center>
+            <h4>
+                <a href="https://mtakac.com/"><b>Martin Takáč</b></a>
+                <br>
+                MBZUAI
+            </h4>
+        </center>
+    </div>
+</div>
+
+<div class="card column">
+	<img src="https://web.stanford.edu/~udell/images/udell_crop.jpg" alt="Madeleine Udell" class="img_card">
+	<div class="container">
+	<center>
+	<h4>
+		<a href="https://web.stanford.edu/~udell/"><b>Madeleine Udell</b></a>
+		<br>
+		Stanford University
+	</h4>
+	</center>
+	</div>
+</div>
+
+<div class="card column">
+    <img src="https://ai-or.github.io/2024/images/Phebe-Vayanos.jpg" alt="Phebe Vayanos" class="img_card">
+    <div class="container">
+        <center>
+            <h4>
+                <a href="https://sites.google.com/usc.edu/phebevayanos/"><b>Phebe Vayanos</b></a>
+                <br>
+                University of Southern California
+            </h4>
+        </center>
+    </div>
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="card column">
+	<img src="https://ai-or.github.io/2024/images/vitercik_square.jpg" alt="Ellen Vitercik" class="img_card">
+	<div class="container">
+	<center>
+	<h4>
+		<a href="https://vitercik.github.io/"><b>Ellen Vitercik</b></a>
+		<br>
+		Stanford University
+	</h4>
+	</center>
+	</div>
+</div>
+
+<div class="card column">
+	<img src="https://ai-or.github.io/2024/images/yong-zhang.png" alt="Yong Zhang" class="img_card">
+	<div class="container">
+	<center>
+	<h4>
+		<a href="https://sites.google.com/site/yongzhangai/home"><b>Yong Zhang</b></a>
+		<br>
+		Huawei Technologies Canada Co., Ltd
+	</h4>
+	</center>
+	</div>
+</div>
+
+</div>
+
+
+
 <!-- <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Michael-Friedlander.jpg" alt="Michael Friedlander" class="img_card">
     <div class="container">
@@ -87,8 +173,18 @@ The workshop is planned as a one-day event. It will feature:
             </h4>
         </center>
     </div>
-</div> -->
-
+</div> 
+    <img src="https://ai-or.github.io/2024/images/Bartolomeo-Stellato.jpg" alt="Bartolomeo Stellato" class="img_card">
+    <div class="container">
+        <center>
+            <h4>
+                <a href="https://stellato.io/"><b>Bartolomeo Stellato</b></a>
+                <br>
+                Princeton University
+            </h4>
+        </center>
+    </div>
+-->
 <!-- <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Swathi-Gupta.jpg" alt="Swathi Gupta" class="img_card">
     <div class="container">
@@ -128,22 +224,6 @@ The workshop is planned as a one-day event. It will feature:
     </div>
 </div> -->
 
-<div class="card column">
-    <img src="https://ai-or.github.io/2024/images/Axel-Parmentier.jpg" alt="Axel Parmentier" class="img_card">
-    <div class="container">
-        <center>
-            <h4>
-                <a href="https://axelparmentier.github.io/"><b>Axel Parmentier</b></a>
-                <br>
-                ENPC France
-            </h4>
-        </center>
-    </div>
-</div>
-
-<!-- </div>
-<div class="row">  -->
-
 <!-- <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Rindranirina-Ramamonjison.jpg" alt="Rindranirina Ramamonjison" class="img_card">
     <div class="container">
@@ -158,33 +238,6 @@ The workshop is planned as a one-day event. It will feature:
 </div> -->
 
 <!-- <div class="card column">
-    <img src="https://ai-or.github.io/2024/images/Bartolomeo-Stellato.jpg" alt="Bartolomeo Stellato" class="img_card">
-    <div class="container">
-        <center>
-            <h4>
-                <a href="https://stellato.io/"><b>Bartolomeo Stellato</b></a>
-                <br>
-                Princeton University
-            </h4>
-        </center>
-    </div>
-</div> -->
-
-<div class="card column">
-    <img src="https://ai-or.github.io/2024/images/Martin-Takac.jpg" alt="Martin Takac" class="img_card">
-    <div class="container">
-        <center>
-            <h4>
-                <a href="https://mtakac.com/"><b>Martin Takáč</b></a>
-                <br>
-                MBZUAI
-            </h4>
-        </center>
-    </div>
-</div>
-
-<!-- Sebastian Pokutta -->
-<!-- <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Sebastian-Pokutta.jpg" alt="Sebastian Pokutta" class="img_card">
     <div class="container">
         <center>
@@ -197,49 +250,6 @@ The workshop is planned as a one-day event. It will feature:
     </div>
 </div> -->
 
-<!-- Phebe Vayanos -->
-<div class="card column">
-    <img src="https://ai-or.github.io/2024/images/Phebe-Vayanos.jpg" alt="Phebe Vayanos" class="img_card">
-    <div class="container">
-        <center>
-            <h4>
-                <a href="https://sites.google.com/usc.edu/phebevayanos/"><b>Phebe Vayanos</b></a>
-                <br>
-                University of Southern California
-            </h4>
-        </center>
-    </div>
-</div>
-
-<div class="card column">
-	<img src="https://ai-or.github.io/2024/images/yong-zhang.png" alt="Yong Zhang" class="img_card">
-	<div class="container">
-	<center>
-	<h4>
-		<a href="https://sites.google.com/site/yongzhangai/home"><b>Yong Zhang</b></a>
-		<br>
-		Huawei Technologies Canada Co., Ltd
-	</h4>
-	</center>
-	</div>
-</div>
-
-</div>
-
-<div class="row">
-<div class="card column">
-	<img src="https://ai-or.github.io/2024/images/vitercik_square.jpg" alt="Ellen Vitercik" class="img_card">
-	<div class="container">
-	<center>
-	<h4>
-		<a href="https://vitercik.github.io/"><b>Ellen Vitercik</b></a>
-		<br>
-		Stanford University
-	</h4>
-	</center>
-	</div>
-</div>
-</div>
 
 <h2 class="blackpar_title" id="Organizers Committee">Organizers Committee</h2>
 <div class="row">
@@ -354,7 +364,6 @@ The workshop is planned as a one-day event. It will feature:
 </div>
 
 </div>
-  
   
 
 
