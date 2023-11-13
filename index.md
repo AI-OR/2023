@@ -71,10 +71,25 @@ The workshop is planned as a one-day event. It will feature:
 
 
 
-<!-- Confirmed Spearkers -->
-<h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
+<!-- Confirmed Speakers -->
+<h2 class="blackpar_title" id="Confirmed Speakers">Confirmed Speakers</h2>
+
+(Orderring by Last Name)
 
 <div class="row"> 
+
+<div class='card column'>
+    <img src='https://skadio.github.io/images/skadio.jpg' alt='Serdar Kadıoğlu' class='img_card'>
+    <div class='container'>
+        <center>
+            <h4>
+                <a href='https://skadio.github.io/'><b>Serdar Kadıoğlu</b></a>
+                <br>
+                Fidelity Investments & Brown University
+            </h4>
+        </center>
+    </div>
+</div>
 
 <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Axel-Parmentier.jpg" alt="Axel Parmentier" class="img_card">
@@ -115,6 +130,10 @@ The workshop is planned as a one-day event. It will feature:
 	</div>
 </div>
 
+</div>
+
+<div class="row">
+
 <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Phebe-Vayanos.jpg" alt="Phebe Vayanos" class="img_card">
     <div class="container">
@@ -127,10 +146,6 @@ The workshop is planned as a one-day event. It will feature:
         </center>
     </div>
 </div>
-
-</div>
-
-<div class="row">
 
 <div class="card column">
 	<img src="https://ai-or.github.io/2024/images/vitercik_square.jpg" alt="Ellen Vitercik" class="img_card">
