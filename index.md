@@ -53,10 +53,7 @@ The workshop is planned as a one-day event. It will feature:
     3. From the dropdown menu, select ``Go to submission site".
     4. Follow the provided instructions to complete your submission.
   - If you have any questions regarding the submission portal, please reach out to Professor Bissan Ghaddar via [email](mailto:bghaddar@ivey.uwo.ca).
-- <p style="color: red;"> Due date: 
-        <span style="text-decoration: line-through;">Submissions are due on November 24, 2023.</span>
-         Extended to December 1, 2023. This would be the final extension.
-</p>
+- <p style="color: red;"> Due date: <span style="text-decoration: line-through;">Submissions are due on November 24, 2023.</span> Extended to December 1, 2023. This would be the final extension. </p>
 
 <!-- Organizers -->
 <style>
