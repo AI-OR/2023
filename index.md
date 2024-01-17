@@ -74,21 +74,21 @@ The workshop is planned as a one-day event. It will feature:
 Monday, February 26, 2024
 
 
-| Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Speaker | Event                                     |
+| Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Speaker&nbsp;&nbsp;&nbsp;&nbsp; | Event |
 |---------------|---------------|------------------------------------------------------|
 | 08:50 - 09:00 | Bissan Ghaddar | Opening Remarks |
 | 09:00 - 09:30  | Serdar Kadioglu    | **Keynote I** <br> *Large Language Models for Optimization Modeling* |
-| 09:30 - 10:00 | Madeleine Udell  |  **Keynote II**:  OptiMUS: Optimization Modeling Using MIP Solvers and Large Language Models | 
-| 10:00 - 10:30 | Yong Zhang     | **Keynote III**:  Some Progress Towards Artificial Intelligence for Operations Research|
+| 09:30 - 10:00 | Madeleine Udell  |  **Keynote II** <br> *OptiMUS: Optimization Modeling Using MIP Solvers and Large Language Models* | 
+| 10:00 - 10:30 | Yong Zhang     | **Keynote III** <br> *Some Progress Towards Artificial Intelligence for Operations Research* |
 | 10:30 - 11:00 |               | Coffee Break | 
-| 11:00 - 11:30  | Ellen Viterick      | **Keynote IV**:  From Large to Small Datasets: Size Generalization for Clustering Algorithm Selection                  |
-| 11:30 - 12:00   | Martin Takac       | **Keynote V**: Beyond Conventional Boundaries: RL's Leap in Solving Optimization Problems |
+| 11:00 - 11:30  | Ellen Viterick      | **Keynote IV** <br> *From Large to Small Datasets: Size Generalization for Clustering Algorithm Selection* |
+| 11:30 - 12:00   | Martin Takac       | **Keynote V** <br> *Beyond Conventional Boundaries: RL's Leap in Solving Optimization Problems* |
 | 12:00 - 12:30 | Axel Parmentier     | **Keynote VI**                              | 
 | 12:30 - 14:00  |                    |                  Lunch    | 
 | 14:00 - 14:30   |    Phebe Vayanos |   **Keynote VII**                      |
 | 14:30 - 15:30   |                    | **Panel Discussion** <br> *Large Language Model in Operations Research*   |
 | 15:30 - 16:00   |                     | Coffee  Break      |
-| 16:00 - 17:00   |                    | Poster Session                                                  |
+| 16:00 - 17:00   |                    | **Poster Session**                                                  |
 
 
 <!-- Confirmed Speakers -->
