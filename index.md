@@ -81,7 +81,7 @@ Monday, February 26, 2024
 | 09:30 - 10:00 | Madeleine Udell  |  **Keynote II** <br> *OptiMUS: Optimization Modeling Using MIP Solvers and Large Language Models* | 
 | 10:00 - 10:30 | Yong Zhang     | **Keynote III** <br> *Some Progress Towards Artificial Intelligence for Operations Research* |
 | 10:30 - 11:00 |               | Coffee Break | 
-| 11:00 - 11:30  | Ellen Viterick      | **Keynote IV** <br> *From Large to Small Datasets: Size Generalization for Clustering Algorithm Selection* |
+| 11:00 - 11:30  | Ellen Vitercik      | **Keynote IV** <br> *From Large to Small Datasets: Size Generalization for Clustering Algorithm Selection* |
 | 11:30 - 12:00   | Martin Takac       | **Keynote V** <br> *Beyond Conventional Boundaries: RL's Leap in Solving Optimization Problems* |
 | 12:00 - 12:30 | Axel Parmentier     | **Keynote VI**                              | 
 | 12:30 - 14:00  |                    |                  Lunch    | 
@@ -231,7 +231,7 @@ Monday, February 26, 2024
       <img src="https://ai-or.github.io/2024/images/Phebe-Vayanos.jpg" alt="Phebe Vayanos" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://sites.google.com/usc.edu/phebevayanos/"><b>Phebe Vayanos</b></a></h2>
-        <p class="affiliation">University of Southern California</p>
+        <p class="affiliation">University of <br> Southern California</p>
       </div>
     </div>
   </div>
