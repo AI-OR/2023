@@ -69,12 +69,52 @@ The workshop is planned as a one-day event. It will feature:
 	}
 </style>
 
+<h2 class="blackpar_title" id="Schedule">Schedule</h2> 
+
+Monday, February 26, 2024
+
+
+| Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Speaker | Event                                     |
+|---------------|---------------|------------------------------------------------------|
+| 08:50 - 09:00 | Bissan Ghaddar | Opening Remarks |
+| 09:00 - 09:30  | Serdar Kadioglu    | Large Language Models for Optimization Modeling |
+| 09:30 - 10:00 | Madeleine Udell  |    OptiMUS: Optimization Modeling Using MIP Solvers and Large Language Models | 
+| 10:00 - 10:30 | Yong Zhang     | Some Progress Towards Artificial Intelligence for Operations Research|
+| 10:30 - 11:00 |               | Break (Light refreshments available near session rooms) | 
+| 11:00 - 11:30  | Ellen Viterick      |   From Large to Small Datasets: Size Generalization for Clustering Algorithm Selection                  |
+| 11:30 - 12:00   | Martin Takac       | Beyond Conventional Boundaries: RL's Leap in Solving Optimization Problems |
+| 12:00 - 12:30 | Axel Parmentier |                                      | 
+| 12:30 - 14:00  |               |                  Lunch (on your own; no sponsored lunch)   | 
+| 14:00 - 14:30   |    Phebe Vayanos |                         |
+| 14:30 - 15:30   |                    | Panel Discussion : Large Language Model in Operations Research   |
+| 15:30 - 16:00   |                     |   Break (Light refreshments available near session rooms)      |
+| 16:00 - 17:00   |                    | Poster Session                                                  |
 
 
 <!-- Confirmed Speakers -->
 <h2 class="blackpar_title" id="Confirmed Speakers">Confirmed Speakers</h2>
 
-(Orderring by Last Name)
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="https://skadio.github.io/images/skadio.jpg" alt="Serdar Kadıoğlu" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://skadio.github.io/"><b>Serdar Kadıoğlu</b></a></h2>
+        <p class="affiliation">Fidelity Investments & Brown University</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">Large Language Models for Optimization Modeling</h3>
+      <p class="abstract">Over the years, Optimization Technology has enjoyed tremendous practical and theoretical advances. Moreover, users now have access to several high-level modelling tools to invoke a solver for the heavy lifting. However, the overall process for solving combinatorial optimization problems remained the same for decades: the user is responsible for formulating the problem and the solver is responsible for finding the solution. Recent progress in large language models (LLMs) opens the door for an alternative with potential for wider adoption. In this talk, we investigate how to leverage techniques from Natural Language Processing (NLP) to model optimization problems from natural text descriptions. We discuss bottom-up and top-up approaches; by named entity extraction for optimization (Ner4Opt) to first distill components such as variables, constraints, objective, and then, to combine them together, or by pre-trained LLMs to generate models in zero-shot and few-shot settings. We present an overview of early results in both directions and discuss open problems.</p>
+    </div>
+  </div>
+</div>
+
 
 <div class="row"> 
 
