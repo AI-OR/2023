@@ -224,10 +224,26 @@ Monday, February 26, 2024
   </div>
 </div>
 
-
-
-
-
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="https://ai-or.github.io/2024/images/Phebe-Vayanos.jpg" alt="Phebe Vayanos" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://sites.google.com/usc.edu/phebevayanos/"><b>Phebe Vayanos</b></a></h2>
+        <p class="affiliation">University of Southern California</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title"></h3>
+      <p class="abstract"></p>
+    </div>
+  </div>
+</div>
 
 
 
