@@ -115,8 +115,7 @@ Monday, February 26, 2024
   </div>
 </div>
 
-
-<div class="row"> 
+<!-- <div class="row"> 
 
 <div class='card column'>
     <img src='https://skadio.github.io/images/skadio.jpg' alt='Serdar Kadıoğlu' class='img_card'>
@@ -129,9 +128,31 @@ Monday, February 26, 2024
             </h4>
         </center>
     </div>
+</div> -->
+
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="https://ai-or.github.io/2024/images/Axel-Parmentier.jpg" alt="Axel Parmentier" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://axelparmentier.github.io/"><b>Axel Parmentier</b></a></h2>
+        <p class="affiliation">ENPC France</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title"></h3>
+      <p class="abstract"></p>
+    </div>
+  </div>
 </div>
 
-<div class="card column">
+
+<!-- <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Axel-Parmentier.jpg" alt="Axel Parmentier" class="img_card">
     <div class="container">
         <center>
@@ -142,9 +163,32 @@ Monday, February 26, 2024
             </h4>
         </center>
     </div>
+</div> -->
+
+
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="https://ai-or.github.io/2024/images/Martin-Takac.jpg" alt="Martin Takac" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://mtakac.com/"><b>Martin Takáč</b></a></h2>
+        <p class="affiliation">MBZUAI</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">Beyond Conventional Boundaries: RL's Leap in Solving Optimization Problems</h3>
+      <p class="abstract">In this talk, we discuss the use of Reinforcement Learning (RL) to address classic optimization challenges, particularly the Vehicle Routing Problem and the Job Shop Problem. Traditionally, these problems can be formulated as Mixed Integer Programming problems and can be efficiently solved using open-source or commercial solvers. However, in practice, a new layer of complexity arises when faced with stochastic parameters or dependencies on observable features. The conventional methodology, which relies on fitting models to predict distribution parameters followed by solving scenario-based problem formulations, often falls short in such stochastic settings. Exploring the use of Machine Learning allows for a data-driven approach, where a policy can be trained via Reinforcement Learning. This approach sidesteps the limitations of traditional model-based predictions, offering a more adaptable and efficient solution. We demonstrate through empirical evidence that RL-based solutions not only surpass the quality of results obtained through classical methods but also accomplish this in a significantly reduced timeframe. This talk will highlight the methodology, challenges, and breakthroughs of recent research, underscoring the potential of RL as a transformative tool in the realm of operations research and optimization.</p>
+    </div>
+  </div>
 </div>
 
-<div class="card column">
+
+<!-- <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Martin-Takac.jpg" alt="Martin Takac" class="img_card">
     <div class="container">
         <center>
@@ -155,7 +199,7 @@ Monday, February 26, 2024
             </h4>
         </center>
     </div>
-</div>
+</div> -->
 
 <div class="card column">
 	<img src="https://ai-or.github.io/2024/images/udell_crop.jpg" alt="Madeleine Udell" class="img_card">
