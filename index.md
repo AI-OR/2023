@@ -74,7 +74,7 @@ The workshop is planned as a one-day event. It will feature:
 Monday, February 26, 2024
 
 
-| Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Speaker&nbsp;&nbsp;&nbsp;&nbsp; | Event |
+| Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event |
 |---------------|---------------|------------------------------------------------------|
 | 08:50 - 09:00 | Bissan Ghaddar | Opening Remarks |
 | 09:00 - 09:30  | Serdar Kadioglu    | **Keynote I** <br> *Large Language Models for Optimization Modeling* |
@@ -92,7 +92,7 @@ Monday, February 26, 2024
 
 
 <!-- Confirmed Speakers -->
-<h2 class="blackpar_title" id="Confirmed Speakers">Confirmed Speakers</h2>
+<h2 class="blackpar_title" id="Confirmed Speakers">Keynote Spearkers</h2>
 
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->
@@ -115,20 +115,56 @@ Monday, February 26, 2024
   </div>
 </div>
 
-<!-- <div class="row"> 
 
-<div class='card column'>
-    <img src='https://skadio.github.io/images/skadio.jpg' alt='Serdar Kadıoğlu' class='img_card'>
-    <div class='container'>
-        <center>
-            <h4>
-                <a href='https://skadio.github.io/'><b>Serdar Kadıoğlu</b></a>
-                <br>
-                Fidelity Investments & Brown University
-            </h4>
-        </center>
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="https://ai-or.github.io/2024/images/udell_crop.jpg" alt="Madeleine Udell" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://web.stanford.edu/~udell/"><b>Madeleine Udell</b></a></h2>
+        <p class="affiliation">Stanford University</p>
+      </div>
     </div>
-</div> -->
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">OptiMUS: Optimization Modeling Using MIP Solvers and Large Language Models</h3>
+      <p class="abstract">Optimization problems are pervasive in sectors from manufacturing and distribution to healthcare. However, most such problems are still solved heuristically by hand rather than optimally by state-of-the-art solvers, as the expertise required to formulate and solve these problems limits the widespread adoption of optimization tools and techniques. As a glimpse of the future, this talk will introduce OptiMUS, a Large Language Model (LLM)-based agent designed to formulate and solve MILP problems from natural language descriptions. OptiMUS can develop mathematical models, write and debug solver code, develop tests, and check the validity of generated solutions. Experimentally, OptiMUS correctly solves more than 80% of benchmark problems, more than twice as many as a basic LLM prompting strategy. More broadly, we discuss the potential for LLMs in domains where accuracy and fidelity to real-world data is critical and strategies to augment and safeguard their performance.</p>
+    </div>
+  </div>
+</div>
+
+
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="https://ai-or.github.io/2024/images/yong-zhang.png" alt="Yong Zhang" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://sites.google.com/site/yongzhangai/home"><b>Yong Zhang</b></a></h2>
+        <p class="affiliation">Huawei Technologies Canada Co., Ltd</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">Some Progress Towards Artificial Intelligence for Operations Research</h3>
+      <p class="abstract">The rapid advancement of artificial intelligence (AI) techniques has opened up new opportunities to revolutionize various fields, including operations research (OR). In recent years, we have explored the integration of AI within the OR process (AI4OR) to enhance its effectiveness and efficiency across multiple stages. One area of focus has been automating the process of formulating complex OR problems. We have harnessed the power of large language models to automatically generate formulations for OR problems, streamlining the modeling process and reducing manual effort. Additionally, we have applied Graph Neural Networks (GNNs) in the model optimization stages. GNNs have shown promise in predicting good initial bases for Linear Programming (LP) problems and selecting optimal branching nodes for Mixed-Integer Linear Programming (MILP) problems. These applications of GNNs have improved the efficiency of the optimization process. In this talk, we will discuss our recent attempts and the lessons we have learned in both automating OR problem formulation and utilizing GNNs for OR model optimization. While we have made significant strides, we acknowledge that challenges remain and ongoing research is essential to further harness the potential of AI in operations research.</p>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
 
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->
@@ -151,19 +187,6 @@ Monday, February 26, 2024
   </div>
 </div>
 
-
-<!-- <div class="card column">
-    <img src="https://ai-or.github.io/2024/images/Axel-Parmentier.jpg" alt="Axel Parmentier" class="img_card">
-    <div class="container">
-        <center>
-            <h4>
-                <a href="https://axelparmentier.github.io/"><b>Axel Parmentier</b></a>
-                <br>
-                ENPC France
-            </h4>
-        </center>
-    </div>
-</div> -->
 
 
 <div class="row" style="display: flex;">
@@ -188,31 +211,6 @@ Monday, February 26, 2024
 </div>
 
 
-<!-- <div class="card column">
-    <img src="https://ai-or.github.io/2024/images/Martin-Takac.jpg" alt="Martin Takac" class="img_card">
-    <div class="container">
-        <center>
-            <h4>
-                <a href="https://mtakac.com/"><b>Martin Takáč</b></a>
-                <br>
-                MBZUAI
-            </h4>
-        </center>
-    </div>
-</div> -->
-
-<div class="card column">
-	<img src="https://ai-or.github.io/2024/images/udell_crop.jpg" alt="Madeleine Udell" class="img_card">
-	<div class="container">
-	<center>
-	<h4>
-		<a href="https://web.stanford.edu/~udell/"><b>Madeleine Udell</b></a>
-		<br>
-		Stanford University
-	</h4>
-	</center>
-	</div>
-</div>
 
 </div>
 
@@ -244,18 +242,7 @@ Monday, February 26, 2024
 	</div>
 </div>
 
-<div class="card column">
-	<img src="https://ai-or.github.io/2024/images/yong-zhang.png" alt="Yong Zhang" class="img_card">
-	<div class="container">
-	<center>
-	<h4>
-		<a href="https://sites.google.com/site/yongzhangai/home"><b>Yong Zhang</b></a>
-		<br>
-		Huawei Technologies Canada Co., Ltd
-	</h4>
-	</center>
-	</div>
-</div>
+
 
 </div>
 
