@@ -338,20 +338,36 @@ Monday, February 26, 2024
 
 
 <h2 class="blackpar_title" id="Organizers Committee">Organizers Committee</h2>
+
+
+
 <div class="row">
 
+<div class="card column">
+	<img src="https://ai-or.github.io/2024/images/ghaddar-bissan-bio-2017-500x680.jpg" alt="Bissan Ghaddar" class="img_card">
+	<div class="container">
+	<center>
+	<h4>
+	<a href="https://www.ivey.uwo.ca/faculty/directory/bissan-ghaddar/"><b>Bissan Ghaddar</b></a>
+		<br>
+		Ivey Business School
+	</h4>
+	</center>
+	</div>
+</div>
+
  <div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/jie-wang.jpg" alt="Jie Wang" class="img_card">
+	  <img src="https://ai-or.github.io/2024/images/rsz_claudia2.jpg" alt="Claudia D'Ambrosio" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-      <a href="https://miralab.ai/people/jie-wang/"><b>Jie Wang</b></a>
+      <a href="https://www.lix.polytechnique.fr/~dambrosio/"><b>Claudia D'Ambrosio</b></a>
 			<br>
-			University of Science and Technology of China
+			Centre National de la Recherche Scientifique & École Polytechnique
 		</h4>
 		</center>
 	  </div>
-	</div>
+</div>
 
  <div class="card column">
 	  <img src="https://ai-or.github.io/2024/images/giuseppe_carenini.jpeg" alt="Giuseppe Carenini" class="img_card">
@@ -366,14 +382,15 @@ Monday, February 26, 2024
 	  </div>
 	</div>
 
+
  <div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/rsz_claudia2.jpg" alt="Claudia D'Ambrosio" class="img_card">
+	  <img src="https://ai-or.github.io/2024/images/jie-wang.jpg" alt="Jie Wang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-      <a href="https://www.lix.polytechnique.fr/~dambrosio/"><b>Claudia D'Ambrosio</b></a>
+      <a href="https://miralab.ai/people/jie-wang/"><b>Jie Wang</b></a>
 			<br>
-			Centre National de la Recherche Scientifique & École Polytechnique
+			University of Science and Technology of China
 		</h4>
 		</center>
 	  </div>
@@ -391,20 +408,6 @@ Monday, February 26, 2024
 	</center>
 	</div>
 </div> -->
-
-<div class="card column">
-	<img src="https://ai-or.github.io/2024/images/ghaddar-bissan-bio-2017-500x680.jpg" alt="Bissan Ghaddar" class="img_card">
-
-	<div class="container">
-	<center>
-	<h4>
-	<a href="https://www.ivey.uwo.ca/faculty/directory/bissan-ghaddar/"><b>Bissan Ghaddar</b></a>
-		<br>
-		Ivey Business School
-	</h4>
-	</center>
-	</div>
-</div>
 
 </div>
 
@@ -424,11 +427,11 @@ Monday, February 26, 2024
 </div>
 
 <div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/zirui-zhou.jpg" alt="Zirui Zhou" class="img_card">
+	  <img src="https://ai-or.github.io/2024/images/zhenanf.jpg" alt="Zhenan Fan" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-			<a href="https://scholar.google.com/citations?user=2fKv_JQAAAAJ"><b>Zirui Zhou</b></a>
+			<a href="https://zhenanf.me/"><b>Zhenan Fan</b></a>
 			<br>
 			Huawei Technologies Canada Co., Ltd
 		</h4>
@@ -437,11 +440,11 @@ Monday, February 26, 2024
 </div>
 
 <div class="card column">
-	  <img src="https://ai-or.github.io/2024/images/zhenanf.jpg" alt="Zhenan Fan" class="img_card">
+	  <img src="https://ai-or.github.io/2024/images/zirui-zhou.jpg" alt="Zirui Zhou" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-			<a href="https://zhenanf.me/"><b>Zhenan Fan</b></a>
+			<a href="https://scholar.google.com/citations?user=2fKv_JQAAAAJ"><b>Zirui Zhou</b></a>
 			<br>
 			Huawei Technologies Canada Co., Ltd
 		</h4>
