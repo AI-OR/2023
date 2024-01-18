@@ -32,12 +32,12 @@ Specific topics of interest for the workshop include (but are not limited to)
 - AI for Decision-Making under Uncertainty
 - AI for Manufacturing and Supply Chains
 
-<h2 class="blackpar_title" id="Submission">Formats</h2>
+<!-- <h2 class="blackpar_title" id="Submission">Formats</h2>
 
 The workshop is planned as a one-day event. It will feature:
 - Invited Talks: Leading researchers will share their insights and findings.
 - Panel Discussion: Experts from academia and industry will discuss and debate relevant topics.
-- Poster Session: All accepted papers will have the opportunity for a poster presentation, allowing attendees to engage in detailed discussions about the research.
+- Poster Session: All accepted papers will have the opportunity for a poster presentation, allowing attendees to engage in detailed discussions about the research. -->
 
 <h2 class="blackpar_title" id="Dates">Submissions</h2>
 
@@ -85,7 +85,7 @@ Monday, February 26, 2024
 | 11:30 - 12:00   | Martin Takac       | **Keynote V** <br> *Beyond Conventional Boundaries: RL's Leap in Solving Optimization Problems* |
 | 12:00 - 12:30 | Axel Parmentier     | **Keynote VI**                              | 
 | 12:30 - 14:00  |                    |                  Lunch    | 
-| 14:00 - 14:30   |    Phebe Vayanos |   **Keynote VII**                      |
+| 14:00 - 14:30   | Phebe Vayanos |   **Keynote VII** <br> *Learning optimal, robust, and fair decision-trees for prediction and prescription using MIO *                     |
 | 14:30 - 15:30   |                    | **Panel Discussion** <br> *Large Language Model in Operations Research*   |
 | 15:30 - 16:00   |                     | Coffee  Break      |
 | 16:00 - 17:00   |                    | **Poster Session**                                                  |
@@ -239,8 +239,8 @@ Monday, February 26, 2024
   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title"></h3>
-      <p class="abstract"></p>
+      <h3 class="talk_title">Learning optimal, robust, and fair decision-trees for prediction and prescription using MIO</h3>
+      <p class="abstract">We consider the problem of learning optimal, robust, and fair models in the form of decision-trees for prediction and prescription in high-stakes settings. We propose new mixed-integer optimization models and algorithms, showcase their flexibility, and theoretical and practical benefits, and demonstrate substantial improvements over the state of the art optimization and heuristic based approaches. We also discuss an open-source package implementing all these approaches that is easy to use and extend.</p>
     </div>
   </div>
 </div>
