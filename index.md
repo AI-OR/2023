@@ -9,7 +9,7 @@ layout: home
 ---
 
 <center>
-<h2 class="blackpar_title"> AAAI 2024 Workshop on <em>Artificial Intelligence for Operations Research</em> </h2>
+<h2 class="blackpar_title"> AAAI 2024 Workshop on <br> <em>Artificial Intelligence for Operations Research</em> </h2>
 </center>
 
 Operations Research (OR) utilizes sophisticated analytical methods to facilitate optimal decision-making. It is an interdisciplinary branch that draws from fields such as mathematics, statistics, and computer science and specializes in modelling and solving complex problems in various sectors, including business, government, healthcare, and engineering. The traditional OR process can be segmented into three distinct steps:
