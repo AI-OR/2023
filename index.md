@@ -73,7 +73,7 @@ The workshop is planned as a one-day event. It will feature:
 Monday, February 26, 2024
 
 
-| Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event |
+| Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event |
 |---------------|---------------|------------------------------------------------------|
 | 08:50 - 09:00 | Bissan Ghaddar | Opening Remarks |
 | 09:00 - 09:30  | Serdar Kadioglu    | **Keynote I** <br> *Large Language Models for Optimization Modeling* |
