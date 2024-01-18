@@ -8,9 +8,9 @@ description: > # this means to ignore newlines until "show_excerpts:"
 # Customized links for main menu
 header_menu:
   Topics: 
-  Formats: 
-  Submission:  
-  Confirmed Speakers: 
+  Submissions:  
+  Schedule:
+  Keynote Spearkers: 
   Organizers Committee: 
 
 show_excerpts: false # set to true to show excerpts on the homepage

@@ -39,7 +39,7 @@ The workshop is planned as a one-day event. It will feature:
 - Panel Discussion: Experts from academia and industry will discuss and debate relevant topics.
 - Poster Session: All accepted papers will have the opportunity for a poster presentation, allowing attendees to engage in detailed discussions about the research. -->
 
-<h2 class="blackpar_title" id="Dates">Submissions</h2>
+<h2 class="blackpar_title" id="Submissions">Submissions</h2>
 
 - Review Process: All papers will undergo a peer-review process. Selected papers will be presented in the poster session.
 - Publication: All accepted papers will be featured in a [special issue of INFOR](https://www.callforpapers.co.uk/ai4or) (Information Systems and Operational Research) -- Artificial Intelligence for  Operations Research.
@@ -85,14 +85,14 @@ Monday, February 26, 2024
 | 11:30 - 12:00   | Martin Takac       | **Keynote V** <br> *Beyond Conventional Boundaries: RL's Leap in Solving Optimization Problems* |
 | 12:00 - 12:30 | Axel Parmentier     | **Keynote VI**                              | 
 | 12:30 - 14:00  |                    |                  Lunch    | 
-| 14:00 - 14:30   | Phebe Vayanos |   **Keynote VII** <br> *Learning optimal, robust, and fair decision-trees for prediction and prescription using MIO *                     |
+| 14:00 - 14:30   | Phebe Vayanos |   **Keynote VII** <br> *Learning optimal, robust, and fair decision-trees for prediction and prescription using MIO*                     |
 | 14:30 - 15:30   |                    | **Panel Discussion** <br> *Large Language Model in Operations Research*   |
 | 15:30 - 16:00   |                     | Coffee  Break      |
 | 16:00 - 17:00   |                    | **Poster Session**                                                  |
 
 
 <!-- Confirmed Speakers -->
-<h2 class="blackpar_title" id="Confirmed Speakers">Keynote Spearkers</h2>
+<h2 class="blackpar_title" id="Keynote Spearkers">Keynote Spearkers</h2>
 
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->
