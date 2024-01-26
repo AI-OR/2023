@@ -82,9 +82,9 @@ Monday, February 26, 2024
 | 10:30 - 11:00 |               | Coffee Break | 
 | 11:00 - 11:30  | Ellen Vitercik      | **Keynote IV** <br> *From Large to Small Datasets: Size Generalization for Clustering Algorithm Selection* |
 | 11:30 - 12:00   | Martin Takac       | **Keynote V** <br> *Beyond Conventional Boundaries: RL's Leap in Solving Optimization Problems* |
-| 12:00 - 12:30 | Axel Parmentier     | **Keynote VI**                              | 
+| 12:00 - 12:30 |  Phebe Vayanos   | **Keynote VI**  <br> *Learning optimal, robust, and fair decision-trees for prediction and prescription using MIO* | 
 | 12:30 - 14:00  |                    |                  Lunch    | 
-| 14:00 - 14:30   | Phebe Vayanos |   **Keynote VII** <br> *Learning optimal, robust, and fair decision-trees for prediction and prescription using MIO*                     |
+| 14:00 - 14:30   | Maximilian Schiffer | **Keynote VII** <br> *Combinatorial optimization augmented machine learning for contextual multi-stage problems* |
 | 14:30 - 15:30   |                    | **Panel Discussion** <br> *Large Language Model in Operations Research*   |
 | 15:30 - 16:00   |                     | Coffee  Break      |
 | 16:00 - 17:00   |                    | **Poster Session**                                                  |
@@ -206,27 +206,6 @@ Monday, February 26, 2024
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="https://ai-or.github.io/2024/images/Axel-Parmentier.jpg" alt="Axel Parmentier" class="img_card" style="width: 100%;">
-      <div class="container">
-        <h2><a href="https://axelparmentier.github.io/"><b>Axel Parmentier</b></a></h2>
-        <p class="affiliation">ENPC France</p>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Title and Abstract Column (Wider) -->
-  <div class="column right" style="flex: 3; max-width: 75%;">
-    <div class="container">
-      <h3 class="talk_title"></h3>
-      <p class="abstract"></p>
-    </div>
-  </div>
-</div>
-
-<div class="row" style="display: flex;">
-  <!-- Speaker's Details Column (Narrower) -->
-  <div class="column left" style="flex: 1; max-width: 25%;">
-    <div class="card">
       <img src="https://ai-or.github.io/2024/images/Phebe-Vayanos.jpg" alt="Phebe Vayanos" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://sites.google.com/usc.edu/phebevayanos/"><b>Phebe Vayanos</b></a></h2>
@@ -245,7 +224,34 @@ Monday, February 26, 2024
 </div>
 
 
+<div class="row" style="display: flex;">
+  <!-- <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="https://ai-or.github.io/2024/images/Axel-Parmentier.jpg" alt="Axel Parmentier" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://axelparmentier.github.io/"><b>Axel Parmentier</b></a></h2>
+        <p class="affiliation">ENPC France</p>
+      </div>
+    </div>
+  </div> -->
 
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="https://www.professoren.tum.de/fileadmin/w00bgr/www/pics/Schiffer_Maximilian_140x180.jpg" alt="Maximilian Schiffer" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://www.professoren.tum.de/en/schiffer-maximilian"><b>Maximilian Schiffer</b></a></h2>
+        <p class="affiliation">Technical University of Munich</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">Combinatorial optimization augmented machine learning for contextual multi-stage problems</h3>
+      <p class="abstract">Combinatorial optimization augmented machine learning (COAML) is a novel field that combines methods from machine learning and operations research to tackle contextual data-driven problems that involve both uncertainty and combinatorics. These problems arise frequently in industrial processes, where firms seek to leverage large and noisy data sets to optimize their operations. COAML typically involves embedding combinatorial optimization layers into neural networks and training them with decision-aware learning techniques. This talk provides an overview of the underlying paradigm, algorithmic pipelines, and foundations based on selected application cases. Particularly, I will demonstrate the effectiveness of COAML on contextual and dynamic stochastic optimization problems, as evidenced by its winning performance on the 2022 EUROMeetsNeurIPS dynamic vehicle routing challenge.</p>
+    </div>
+  </div>
+</div>
 
 <!-- <div class="card column">
     <img src="https://ai-or.github.io/2024/images/Michael-Friedlander.jpg" alt="Michael Friedlander" class="img_card">
