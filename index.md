@@ -187,7 +187,7 @@ Monday, February 26, 2024
       <img src="https://ai-or.github.io/2024/images/Martin-Takac.jpg" alt="Martin Takac" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://mtakac.com/"><b>Martin Takáč</b></a></h2>
-        <p class="affiliation">MBZUAI</p>
+        <p class="affiliation">Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</p>
       </div>
     </div>
   </div>
